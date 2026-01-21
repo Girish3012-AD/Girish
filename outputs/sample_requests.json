@@ -1,0 +1,53 @@
+[
+    {
+        "age": 28,
+        "gender": "Female",
+        "location": "Bangalore",
+        "device_type": "iOS",
+        "acquisition_channel": "Organic",
+        "plan_type": "Premium",
+        "monthly_price": 999.0,
+        "auto_renew": 1,
+        "total_sessions_30d": 85,
+        "avg_session_minutes_30d": 45.2,
+        "total_crashes_30d": 1,
+        "failed_payments_30d": 0,
+        "total_amount_success_30d": 999.0,
+        "support_tickets_30d": 0,
+        "avg_resolution_time_30d": 0
+    },
+    {
+        "age": 45,
+        "gender": "Male",
+        "location": "Delhi",
+        "device_type": "Android",
+        "acquisition_channel": "Ads",
+        "plan_type": "Basic",
+        "monthly_price": 199.0,
+        "auto_renew": 0,
+        "total_sessions_30d": 5,
+        "avg_session_minutes_30d": 8.5,
+        "total_crashes_30d": 3,
+        "failed_payments_30d": 2,
+        "total_amount_success_30d": 199.0,
+        "support_tickets_30d": 4,
+        "avg_resolution_time_30d": 48.5
+    },
+    {
+        "age": 32,
+        "gender": "Other",
+        "location": "Mumbai",
+        "device_type": "Web",
+        "acquisition_channel": "Referral",
+        "plan_type": "Standard",
+        "monthly_price": 499.0,
+        "auto_renew": 1,
+        "total_sessions_30d": 35,
+        "avg_session_minutes_30d": 22.0,
+        "total_crashes_30d": 0,
+        "failed_payments_30d": 1,
+        "total_amount_success_30d": 499.0,
+        "support_tickets_30d": 1,
+        "avg_resolution_time_30d": 15.0
+    }
+]

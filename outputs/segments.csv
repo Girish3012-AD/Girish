@@ -1,0 +1,5001 @@
+customer_id,segment_id,segment_name
+C000001,0,High Value Engaged
+C000002,0,High Value Engaged
+C000003,0,High Value Engaged
+C000004,0,High Value Engaged
+C000005,1,At Risk
+C000006,0,High Value Engaged
+C000007,0,High Value Engaged
+C000008,3,Price Sensitive
+C000009,1,At Risk
+C000010,3,Price Sensitive
+C000011,1,At Risk
+C000012,0,High Value Engaged
+C000013,0,High Value Engaged
+C000014,0,High Value Engaged
+C000015,0,High Value Engaged
+C000016,0,High Value Engaged
+C000017,0,High Value Engaged
+C000018,0,High Value Engaged
+C000019,0,High Value Engaged
+C000020,0,High Value Engaged
+C000021,0,High Value Engaged
+C000022,0,High Value Engaged
+C000023,2,Low Engagement
+C000024,0,High Value Engaged
+C000025,3,Price Sensitive
+C000026,0,High Value Engaged
+C000027,0,High Value Engaged
+C000028,0,High Value Engaged
+C000029,1,At Risk
+C000030,0,High Value Engaged
+C000031,0,High Value Engaged
+C000032,0,High Value Engaged
+C000033,1,At Risk
+C000034,1,At Risk
+C000035,0,High Value Engaged
+C000036,0,High Value Engaged
+C000037,2,Low Engagement
+C000038,0,High Value Engaged
+C000039,3,Price Sensitive
+C000040,0,High Value Engaged
+C000041,0,High Value Engaged
+C000042,0,High Value Engaged
+C000043,0,High Value Engaged
+C000044,1,At Risk
+C000045,0,High Value Engaged
+C000046,0,High Value Engaged
+C000047,1,At Risk
+C000048,0,High Value Engaged
+C000049,0,High Value Engaged
+C000050,1,At Risk
+C000051,2,Low Engagement
+C000052,0,High Value Engaged
+C000053,0,High Value Engaged
+C000054,0,High Value Engaged
+C000055,1,At Risk
+C000056,0,High Value Engaged
+C000057,2,Low Engagement
+C000058,0,High Value Engaged
+C000059,0,High Value Engaged
+C000060,0,High Value Engaged
+C000061,2,Low Engagement
+C000062,3,Price Sensitive
+C000063,1,At Risk
+C000064,0,High Value Engaged
+C000065,0,High Value Engaged
+C000066,0,High Value Engaged
+C000067,1,At Risk
+C000068,2,Low Engagement
+C000069,0,High Value Engaged
+C000070,1,At Risk
+C000071,0,High Value Engaged
+C000072,2,Low Engagement
+C000073,0,High Value Engaged
+C000074,0,High Value Engaged
+C000075,0,High Value Engaged
+C000076,2,Low Engagement
+C000077,1,At Risk
+C000078,2,Low Engagement
+C000079,0,High Value Engaged
+C000080,2,Low Engagement
+C000081,0,High Value Engaged
+C000082,0,High Value Engaged
+C000083,0,High Value Engaged
+C000084,1,At Risk
+C000085,2,Low Engagement
+C000086,1,At Risk
+C000087,0,High Value Engaged
+C000088,2,Low Engagement
+C000089,0,High Value Engaged
+C000090,0,High Value Engaged
+C000091,1,At Risk
+C000092,2,Low Engagement
+C000093,0,High Value Engaged
+C000094,1,At Risk
+C000095,0,High Value Engaged
+C000096,0,High Value Engaged
+C000097,0,High Value Engaged
+C000098,0,High Value Engaged
+C000099,0,High Value Engaged
+C000100,1,At Risk
+C000101,0,High Value Engaged
+C000102,0,High Value Engaged
+C000103,0,High Value Engaged
+C000104,2,Low Engagement
+C000105,0,High Value Engaged
+C000106,0,High Value Engaged
+C000107,0,High Value Engaged
+C000108,0,High Value Engaged
+C000109,0,High Value Engaged
+C000110,1,At Risk
+C000111,0,High Value Engaged
+C000112,0,High Value Engaged
+C000113,0,High Value Engaged
+C000114,1,At Risk
+C000115,2,Low Engagement
+C000116,2,Low Engagement
+C000117,0,High Value Engaged
+C000118,1,At Risk
+C000119,0,High Value Engaged
+C000120,0,High Value Engaged
+C000121,0,High Value Engaged
+C000122,1,At Risk
+C000123,0,High Value Engaged
+C000124,1,At Risk
+C000125,0,High Value Engaged
+C000126,0,High Value Engaged
+C000127,0,High Value Engaged
+C000128,1,At Risk
+C000129,1,At Risk
+C000130,3,Price Sensitive
+C000131,1,At Risk
+C000132,0,High Value Engaged
+C000133,1,At Risk
+C000134,2,Low Engagement
+C000135,0,High Value Engaged
+C000136,0,High Value Engaged
+C000137,1,At Risk
+C000138,0,High Value Engaged
+C000139,1,At Risk
+C000140,2,Low Engagement
+C000141,0,High Value Engaged
+C000142,1,At Risk
+C000143,0,High Value Engaged
+C000144,0,High Value Engaged
+C000145,2,Low Engagement
+C000146,0,High Value Engaged
+C000147,0,High Value Engaged
+C000148,0,High Value Engaged
+C000149,2,Low Engagement
+C000150,0,High Value Engaged
+C000151,0,High Value Engaged
+C000152,0,High Value Engaged
+C000153,0,High Value Engaged
+C000154,1,At Risk
+C000155,0,High Value Engaged
+C000156,0,High Value Engaged
+C000157,0,High Value Engaged
+C000158,0,High Value Engaged
+C000159,3,Price Sensitive
+C000160,0,High Value Engaged
+C000161,0,High Value Engaged
+C000162,1,At Risk
+C000163,0,High Value Engaged
+C000164,0,High Value Engaged
+C000165,0,High Value Engaged
+C000166,1,At Risk
+C000167,0,High Value Engaged
+C000168,0,High Value Engaged
+C000169,0,High Value Engaged
+C000170,0,High Value Engaged
+C000171,0,High Value Engaged
+C000172,0,High Value Engaged
+C000173,1,At Risk
+C000174,2,Low Engagement
+C000175,0,High Value Engaged
+C000176,0,High Value Engaged
+C000177,0,High Value Engaged
+C000178,0,High Value Engaged
+C000179,0,High Value Engaged
+C000180,1,At Risk
+C000181,3,Price Sensitive
+C000182,1,At Risk
+C000183,1,At Risk
+C000184,0,High Value Engaged
+C000185,1,At Risk
+C000186,1,At Risk
+C000187,0,High Value Engaged
+C000188,3,Price Sensitive
+C000189,0,High Value Engaged
+C000190,1,At Risk
+C000191,2,Low Engagement
+C000192,0,High Value Engaged
+C000193,0,High Value Engaged
+C000194,0,High Value Engaged
+C000195,3,Price Sensitive
+C000196,0,High Value Engaged
+C000197,0,High Value Engaged
+C000198,2,Low Engagement
+C000199,2,Low Engagement
+C000200,0,High Value Engaged
+C000201,0,High Value Engaged
+C000202,0,High Value Engaged
+C000203,0,High Value Engaged
+C000204,1,At Risk
+C000205,0,High Value Engaged
+C000206,0,High Value Engaged
+C000207,1,At Risk
+C000208,2,Low Engagement
+C000209,1,At Risk
+C000210,1,At Risk
+C000211,0,High Value Engaged
+C000212,0,High Value Engaged
+C000213,0,High Value Engaged
+C000214,0,High Value Engaged
+C000215,1,At Risk
+C000216,0,High Value Engaged
+C000217,0,High Value Engaged
+C000218,3,Price Sensitive
+C000219,0,High Value Engaged
+C000220,2,Low Engagement
+C000221,0,High Value Engaged
+C000222,0,High Value Engaged
+C000223,0,High Value Engaged
+C000224,0,High Value Engaged
+C000225,0,High Value Engaged
+C000226,0,High Value Engaged
+C000227,2,Low Engagement
+C000228,0,High Value Engaged
+C000229,0,High Value Engaged
+C000230,0,High Value Engaged
+C000231,1,At Risk
+C000232,0,High Value Engaged
+C000233,0,High Value Engaged
+C000234,0,High Value Engaged
+C000235,0,High Value Engaged
+C000236,0,High Value Engaged
+C000237,0,High Value Engaged
+C000238,1,At Risk
+C000239,1,At Risk
+C000240,1,At Risk
+C000241,0,High Value Engaged
+C000242,1,At Risk
+C000243,0,High Value Engaged
+C000244,0,High Value Engaged
+C000245,0,High Value Engaged
+C000246,1,At Risk
+C000247,1,At Risk
+C000248,2,Low Engagement
+C000249,0,High Value Engaged
+C000250,0,High Value Engaged
+C000251,0,High Value Engaged
+C000252,2,Low Engagement
+C000253,0,High Value Engaged
+C000254,0,High Value Engaged
+C000255,0,High Value Engaged
+C000256,0,High Value Engaged
+C000257,0,High Value Engaged
+C000258,1,At Risk
+C000259,0,High Value Engaged
+C000260,0,High Value Engaged
+C000261,3,Price Sensitive
+C000262,0,High Value Engaged
+C000263,0,High Value Engaged
+C000264,0,High Value Engaged
+C000265,3,Price Sensitive
+C000266,2,Low Engagement
+C000267,1,At Risk
+C000268,0,High Value Engaged
+C000269,2,Low Engagement
+C000270,1,At Risk
+C000271,2,Low Engagement
+C000272,0,High Value Engaged
+C000273,0,High Value Engaged
+C000274,0,High Value Engaged
+C000275,0,High Value Engaged
+C000276,0,High Value Engaged
+C000277,0,High Value Engaged
+C000278,1,At Risk
+C000279,0,High Value Engaged
+C000280,2,Low Engagement
+C000281,0,High Value Engaged
+C000282,1,At Risk
+C000283,1,At Risk
+C000284,0,High Value Engaged
+C000285,0,High Value Engaged
+C000286,0,High Value Engaged
+C000287,2,Low Engagement
+C000288,0,High Value Engaged
+C000289,0,High Value Engaged
+C000290,1,At Risk
+C000291,0,High Value Engaged
+C000292,1,At Risk
+C000293,0,High Value Engaged
+C000294,0,High Value Engaged
+C000295,0,High Value Engaged
+C000296,3,Price Sensitive
+C000297,0,High Value Engaged
+C000298,2,Low Engagement
+C000299,0,High Value Engaged
+C000300,0,High Value Engaged
+C000301,0,High Value Engaged
+C000302,2,Low Engagement
+C000303,0,High Value Engaged
+C000304,0,High Value Engaged
+C000305,0,High Value Engaged
+C000306,0,High Value Engaged
+C000307,0,High Value Engaged
+C000308,0,High Value Engaged
+C000309,0,High Value Engaged
+C000310,0,High Value Engaged
+C000311,3,Price Sensitive
+C000312,1,At Risk
+C000313,1,At Risk
+C000314,0,High Value Engaged
+C000315,0,High Value Engaged
+C000316,0,High Value Engaged
+C000317,0,High Value Engaged
+C000318,2,Low Engagement
+C000319,2,Low Engagement
+C000320,0,High Value Engaged
+C000321,0,High Value Engaged
+C000322,1,At Risk
+C000323,1,At Risk
+C000324,0,High Value Engaged
+C000325,1,At Risk
+C000326,0,High Value Engaged
+C000327,0,High Value Engaged
+C000328,1,At Risk
+C000329,0,High Value Engaged
+C000330,3,Price Sensitive
+C000331,0,High Value Engaged
+C000332,0,High Value Engaged
+C000333,0,High Value Engaged
+C000334,0,High Value Engaged
+C000335,2,Low Engagement
+C000336,2,Low Engagement
+C000337,0,High Value Engaged
+C000338,2,Low Engagement
+C000339,0,High Value Engaged
+C000340,1,At Risk
+C000341,0,High Value Engaged
+C000342,0,High Value Engaged
+C000343,0,High Value Engaged
+C000344,0,High Value Engaged
+C000345,2,Low Engagement
+C000346,1,At Risk
+C000347,0,High Value Engaged
+C000348,1,At Risk
+C000349,1,At Risk
+C000350,0,High Value Engaged
+C000351,0,High Value Engaged
+C000352,0,High Value Engaged
+C000353,0,High Value Engaged
+C000354,1,At Risk
+C000355,1,At Risk
+C000356,0,High Value Engaged
+C000357,1,At Risk
+C000358,0,High Value Engaged
+C000359,0,High Value Engaged
+C000360,0,High Value Engaged
+C000361,1,At Risk
+C000362,0,High Value Engaged
+C000363,2,Low Engagement
+C000364,0,High Value Engaged
+C000365,0,High Value Engaged
+C000366,0,High Value Engaged
+C000367,0,High Value Engaged
+C000368,0,High Value Engaged
+C000369,1,At Risk
+C000370,1,At Risk
+C000371,0,High Value Engaged
+C000372,0,High Value Engaged
+C000373,1,At Risk
+C000374,0,High Value Engaged
+C000375,0,High Value Engaged
+C000376,2,Low Engagement
+C000377,0,High Value Engaged
+C000378,1,At Risk
+C000379,1,At Risk
+C000380,1,At Risk
+C000381,1,At Risk
+C000382,0,High Value Engaged
+C000383,0,High Value Engaged
+C000384,0,High Value Engaged
+C000385,0,High Value Engaged
+C000386,2,Low Engagement
+C000387,0,High Value Engaged
+C000388,0,High Value Engaged
+C000389,1,At Risk
+C000390,0,High Value Engaged
+C000391,1,At Risk
+C000392,0,High Value Engaged
+C000393,1,At Risk
+C000394,0,High Value Engaged
+C000395,1,At Risk
+C000396,1,At Risk
+C000397,1,At Risk
+C000398,0,High Value Engaged
+C000399,0,High Value Engaged
+C000400,1,At Risk
+C000401,2,Low Engagement
+C000402,1,At Risk
+C000403,1,At Risk
+C000404,0,High Value Engaged
+C000405,0,High Value Engaged
+C000406,0,High Value Engaged
+C000407,0,High Value Engaged
+C000408,1,At Risk
+C000409,0,High Value Engaged
+C000410,0,High Value Engaged
+C000411,0,High Value Engaged
+C000412,0,High Value Engaged
+C000413,1,At Risk
+C000414,1,At Risk
+C000415,0,High Value Engaged
+C000416,1,At Risk
+C000417,2,Low Engagement
+C000418,2,Low Engagement
+C000419,0,High Value Engaged
+C000420,0,High Value Engaged
+C000421,2,Low Engagement
+C000422,3,Price Sensitive
+C000423,0,High Value Engaged
+C000424,0,High Value Engaged
+C000425,0,High Value Engaged
+C000426,0,High Value Engaged
+C000427,1,At Risk
+C000428,2,Low Engagement
+C000429,1,At Risk
+C000430,0,High Value Engaged
+C000431,0,High Value Engaged
+C000432,2,Low Engagement
+C000433,0,High Value Engaged
+C000434,0,High Value Engaged
+C000435,0,High Value Engaged
+C000436,0,High Value Engaged
+C000437,0,High Value Engaged
+C000438,0,High Value Engaged
+C000439,0,High Value Engaged
+C000440,2,Low Engagement
+C000441,0,High Value Engaged
+C000442,2,Low Engagement
+C000443,0,High Value Engaged
+C000444,2,Low Engagement
+C000445,2,Low Engagement
+C000446,0,High Value Engaged
+C000447,3,Price Sensitive
+C000448,0,High Value Engaged
+C000449,2,Low Engagement
+C000450,0,High Value Engaged
+C000451,0,High Value Engaged
+C000452,3,Price Sensitive
+C000453,0,High Value Engaged
+C000454,0,High Value Engaged
+C000455,0,High Value Engaged
+C000456,0,High Value Engaged
+C000457,0,High Value Engaged
+C000458,0,High Value Engaged
+C000459,1,At Risk
+C000460,1,At Risk
+C000461,2,Low Engagement
+C000462,3,Price Sensitive
+C000463,0,High Value Engaged
+C000464,0,High Value Engaged
+C000465,0,High Value Engaged
+C000466,2,Low Engagement
+C000467,0,High Value Engaged
+C000468,0,High Value Engaged
+C000469,0,High Value Engaged
+C000470,0,High Value Engaged
+C000471,0,High Value Engaged
+C000472,0,High Value Engaged
+C000473,0,High Value Engaged
+C000474,0,High Value Engaged
+C000475,2,Low Engagement
+C000476,2,Low Engagement
+C000477,2,Low Engagement
+C000478,0,High Value Engaged
+C000479,1,At Risk
+C000480,2,Low Engagement
+C000481,0,High Value Engaged
+C000482,0,High Value Engaged
+C000483,0,High Value Engaged
+C000484,0,High Value Engaged
+C000485,0,High Value Engaged
+C000486,0,High Value Engaged
+C000487,2,Low Engagement
+C000488,1,At Risk
+C000489,0,High Value Engaged
+C000490,0,High Value Engaged
+C000491,0,High Value Engaged
+C000492,2,Low Engagement
+C000493,3,Price Sensitive
+C000494,0,High Value Engaged
+C000495,0,High Value Engaged
+C000496,0,High Value Engaged
+C000497,0,High Value Engaged
+C000498,0,High Value Engaged
+C000499,0,High Value Engaged
+C000500,1,At Risk
+C000501,2,Low Engagement
+C000502,1,At Risk
+C000503,0,High Value Engaged
+C000504,0,High Value Engaged
+C000505,0,High Value Engaged
+C000506,3,Price Sensitive
+C000507,0,High Value Engaged
+C000508,0,High Value Engaged
+C000509,2,Low Engagement
+C000510,0,High Value Engaged
+C000511,2,Low Engagement
+C000512,0,High Value Engaged
+C000513,0,High Value Engaged
+C000514,0,High Value Engaged
+C000515,0,High Value Engaged
+C000516,2,Low Engagement
+C000517,3,Price Sensitive
+C000518,1,At Risk
+C000519,0,High Value Engaged
+C000520,1,At Risk
+C000521,0,High Value Engaged
+C000522,0,High Value Engaged
+C000523,0,High Value Engaged
+C000524,1,At Risk
+C000525,2,Low Engagement
+C000526,1,At Risk
+C000527,0,High Value Engaged
+C000528,0,High Value Engaged
+C000529,1,At Risk
+C000530,2,Low Engagement
+C000531,0,High Value Engaged
+C000532,0,High Value Engaged
+C000533,0,High Value Engaged
+C000534,0,High Value Engaged
+C000535,0,High Value Engaged
+C000536,0,High Value Engaged
+C000537,1,At Risk
+C000538,0,High Value Engaged
+C000539,0,High Value Engaged
+C000540,0,High Value Engaged
+C000541,0,High Value Engaged
+C000542,0,High Value Engaged
+C000543,1,At Risk
+C000544,3,Price Sensitive
+C000545,0,High Value Engaged
+C000546,2,Low Engagement
+C000547,0,High Value Engaged
+C000548,1,At Risk
+C000549,0,High Value Engaged
+C000550,0,High Value Engaged
+C000551,0,High Value Engaged
+C000552,0,High Value Engaged
+C000553,2,Low Engagement
+C000554,0,High Value Engaged
+C000555,1,At Risk
+C000556,0,High Value Engaged
+C000557,0,High Value Engaged
+C000558,2,Low Engagement
+C000559,2,Low Engagement
+C000560,1,At Risk
+C000561,0,High Value Engaged
+C000562,2,Low Engagement
+C000563,0,High Value Engaged
+C000564,0,High Value Engaged
+C000565,2,Low Engagement
+C000566,0,High Value Engaged
+C000567,2,Low Engagement
+C000568,2,Low Engagement
+C000569,2,Low Engagement
+C000570,0,High Value Engaged
+C000571,1,At Risk
+C000572,0,High Value Engaged
+C000573,2,Low Engagement
+C000574,0,High Value Engaged
+C000575,1,At Risk
+C000576,2,Low Engagement
+C000577,1,At Risk
+C000578,2,Low Engagement
+C000579,1,At Risk
+C000580,0,High Value Engaged
+C000581,0,High Value Engaged
+C000582,0,High Value Engaged
+C000583,3,Price Sensitive
+C000584,0,High Value Engaged
+C000585,2,Low Engagement
+C000586,0,High Value Engaged
+C000587,0,High Value Engaged
+C000588,0,High Value Engaged
+C000589,0,High Value Engaged
+C000590,0,High Value Engaged
+C000591,0,High Value Engaged
+C000592,0,High Value Engaged
+C000593,1,At Risk
+C000594,0,High Value Engaged
+C000595,1,At Risk
+C000596,0,High Value Engaged
+C000597,2,Low Engagement
+C000598,0,High Value Engaged
+C000599,0,High Value Engaged
+C000600,0,High Value Engaged
+C000601,2,Low Engagement
+C000602,0,High Value Engaged
+C000603,0,High Value Engaged
+C000604,0,High Value Engaged
+C000605,0,High Value Engaged
+C000606,0,High Value Engaged
+C000607,0,High Value Engaged
+C000608,1,At Risk
+C000609,1,At Risk
+C000610,2,Low Engagement
+C000611,0,High Value Engaged
+C000612,0,High Value Engaged
+C000613,1,At Risk
+C000614,1,At Risk
+C000615,2,Low Engagement
+C000616,0,High Value Engaged
+C000617,0,High Value Engaged
+C000618,1,At Risk
+C000619,0,High Value Engaged
+C000620,2,Low Engagement
+C000621,0,High Value Engaged
+C000622,0,High Value Engaged
+C000623,0,High Value Engaged
+C000624,0,High Value Engaged
+C000625,0,High Value Engaged
+C000626,0,High Value Engaged
+C000627,2,Low Engagement
+C000628,0,High Value Engaged
+C000629,0,High Value Engaged
+C000630,0,High Value Engaged
+C000631,0,High Value Engaged
+C000632,1,At Risk
+C000633,1,At Risk
+C000634,0,High Value Engaged
+C000635,0,High Value Engaged
+C000636,2,Low Engagement
+C000637,0,High Value Engaged
+C000638,0,High Value Engaged
+C000639,0,High Value Engaged
+C000640,0,High Value Engaged
+C000641,0,High Value Engaged
+C000642,0,High Value Engaged
+C000643,0,High Value Engaged
+C000644,2,Low Engagement
+C000645,1,At Risk
+C000646,0,High Value Engaged
+C000647,0,High Value Engaged
+C000648,1,At Risk
+C000649,2,Low Engagement
+C000650,0,High Value Engaged
+C000651,0,High Value Engaged
+C000652,1,At Risk
+C000653,0,High Value Engaged
+C000654,0,High Value Engaged
+C000655,0,High Value Engaged
+C000656,0,High Value Engaged
+C000657,0,High Value Engaged
+C000658,1,At Risk
+C000659,2,Low Engagement
+C000660,0,High Value Engaged
+C000661,0,High Value Engaged
+C000662,3,Price Sensitive
+C000663,0,High Value Engaged
+C000664,0,High Value Engaged
+C000665,0,High Value Engaged
+C000666,0,High Value Engaged
+C000667,0,High Value Engaged
+C000668,0,High Value Engaged
+C000669,1,At Risk
+C000670,0,High Value Engaged
+C000671,0,High Value Engaged
+C000672,3,Price Sensitive
+C000673,1,At Risk
+C000674,0,High Value Engaged
+C000675,0,High Value Engaged
+C000676,1,At Risk
+C000677,0,High Value Engaged
+C000678,0,High Value Engaged
+C000679,0,High Value Engaged
+C000680,2,Low Engagement
+C000681,0,High Value Engaged
+C000682,0,High Value Engaged
+C000683,0,High Value Engaged
+C000684,0,High Value Engaged
+C000685,0,High Value Engaged
+C000686,0,High Value Engaged
+C000687,0,High Value Engaged
+C000688,2,Low Engagement
+C000689,0,High Value Engaged
+C000690,1,At Risk
+C000691,0,High Value Engaged
+C000692,0,High Value Engaged
+C000693,2,Low Engagement
+C000694,0,High Value Engaged
+C000695,0,High Value Engaged
+C000696,2,Low Engagement
+C000697,1,At Risk
+C000698,0,High Value Engaged
+C000699,0,High Value Engaged
+C000700,0,High Value Engaged
+C000701,2,Low Engagement
+C000702,0,High Value Engaged
+C000703,0,High Value Engaged
+C000704,0,High Value Engaged
+C000705,0,High Value Engaged
+C000706,0,High Value Engaged
+C000707,0,High Value Engaged
+C000708,0,High Value Engaged
+C000709,1,At Risk
+C000710,3,Price Sensitive
+C000711,1,At Risk
+C000712,2,Low Engagement
+C000713,0,High Value Engaged
+C000714,1,At Risk
+C000715,0,High Value Engaged
+C000716,1,At Risk
+C000717,0,High Value Engaged
+C000718,2,Low Engagement
+C000719,0,High Value Engaged
+C000720,2,Low Engagement
+C000721,0,High Value Engaged
+C000722,0,High Value Engaged
+C000723,0,High Value Engaged
+C000724,2,Low Engagement
+C000725,0,High Value Engaged
+C000726,0,High Value Engaged
+C000727,0,High Value Engaged
+C000728,0,High Value Engaged
+C000729,0,High Value Engaged
+C000730,0,High Value Engaged
+C000731,1,At Risk
+C000732,1,At Risk
+C000733,2,Low Engagement
+C000734,0,High Value Engaged
+C000735,0,High Value Engaged
+C000736,0,High Value Engaged
+C000737,2,Low Engagement
+C000738,2,Low Engagement
+C000739,1,At Risk
+C000740,2,Low Engagement
+C000741,1,At Risk
+C000742,0,High Value Engaged
+C000743,0,High Value Engaged
+C000744,3,Price Sensitive
+C000745,0,High Value Engaged
+C000746,1,At Risk
+C000747,1,At Risk
+C000748,0,High Value Engaged
+C000749,2,Low Engagement
+C000750,0,High Value Engaged
+C000751,0,High Value Engaged
+C000752,0,High Value Engaged
+C000753,2,Low Engagement
+C000754,0,High Value Engaged
+C000755,1,At Risk
+C000756,0,High Value Engaged
+C000757,0,High Value Engaged
+C000758,0,High Value Engaged
+C000759,1,At Risk
+C000760,1,At Risk
+C000761,0,High Value Engaged
+C000762,2,Low Engagement
+C000763,1,At Risk
+C000764,0,High Value Engaged
+C000765,0,High Value Engaged
+C000766,0,High Value Engaged
+C000767,0,High Value Engaged
+C000768,0,High Value Engaged
+C000769,0,High Value Engaged
+C000770,0,High Value Engaged
+C000771,0,High Value Engaged
+C000772,0,High Value Engaged
+C000773,1,At Risk
+C000774,0,High Value Engaged
+C000775,0,High Value Engaged
+C000776,0,High Value Engaged
+C000777,1,At Risk
+C000778,0,High Value Engaged
+C000779,0,High Value Engaged
+C000780,0,High Value Engaged
+C000781,0,High Value Engaged
+C000782,0,High Value Engaged
+C000783,0,High Value Engaged
+C000784,0,High Value Engaged
+C000785,2,Low Engagement
+C000786,0,High Value Engaged
+C000787,0,High Value Engaged
+C000788,2,Low Engagement
+C000789,0,High Value Engaged
+C000790,0,High Value Engaged
+C000791,0,High Value Engaged
+C000792,0,High Value Engaged
+C000793,1,At Risk
+C000794,1,At Risk
+C000795,2,Low Engagement
+C000796,0,High Value Engaged
+C000797,0,High Value Engaged
+C000798,3,Price Sensitive
+C000799,0,High Value Engaged
+C000800,0,High Value Engaged
+C000801,0,High Value Engaged
+C000802,2,Low Engagement
+C000803,2,Low Engagement
+C000804,0,High Value Engaged
+C000805,0,High Value Engaged
+C000806,2,Low Engagement
+C000807,1,At Risk
+C000808,0,High Value Engaged
+C000809,0,High Value Engaged
+C000810,0,High Value Engaged
+C000811,2,Low Engagement
+C000812,0,High Value Engaged
+C000813,0,High Value Engaged
+C000814,0,High Value Engaged
+C000815,1,At Risk
+C000816,0,High Value Engaged
+C000817,0,High Value Engaged
+C000818,1,At Risk
+C000819,0,High Value Engaged
+C000820,0,High Value Engaged
+C000821,0,High Value Engaged
+C000822,0,High Value Engaged
+C000823,0,High Value Engaged
+C000824,2,Low Engagement
+C000825,2,Low Engagement
+C000826,1,At Risk
+C000827,0,High Value Engaged
+C000828,2,Low Engagement
+C000829,0,High Value Engaged
+C000830,0,High Value Engaged
+C000831,2,Low Engagement
+C000832,0,High Value Engaged
+C000833,1,At Risk
+C000834,0,High Value Engaged
+C000835,0,High Value Engaged
+C000836,0,High Value Engaged
+C000837,1,At Risk
+C000838,1,At Risk
+C000839,0,High Value Engaged
+C000840,1,At Risk
+C000841,1,At Risk
+C000842,1,At Risk
+C000843,0,High Value Engaged
+C000844,0,High Value Engaged
+C000845,1,At Risk
+C000846,1,At Risk
+C000847,0,High Value Engaged
+C000848,0,High Value Engaged
+C000849,0,High Value Engaged
+C000850,1,At Risk
+C000851,0,High Value Engaged
+C000852,0,High Value Engaged
+C000853,0,High Value Engaged
+C000854,0,High Value Engaged
+C000855,1,At Risk
+C000856,0,High Value Engaged
+C000857,1,At Risk
+C000858,1,At Risk
+C000859,0,High Value Engaged
+C000860,0,High Value Engaged
+C000861,0,High Value Engaged
+C000862,1,At Risk
+C000863,0,High Value Engaged
+C000864,1,At Risk
+C000865,0,High Value Engaged
+C000866,0,High Value Engaged
+C000867,0,High Value Engaged
+C000868,0,High Value Engaged
+C000869,1,At Risk
+C000870,2,Low Engagement
+C000871,0,High Value Engaged
+C000872,0,High Value Engaged
+C000873,2,Low Engagement
+C000874,0,High Value Engaged
+C000875,0,High Value Engaged
+C000876,0,High Value Engaged
+C000877,0,High Value Engaged
+C000878,0,High Value Engaged
+C000879,1,At Risk
+C000880,2,Low Engagement
+C000881,0,High Value Engaged
+C000882,2,Low Engagement
+C000883,2,Low Engagement
+C000884,0,High Value Engaged
+C000885,2,Low Engagement
+C000886,0,High Value Engaged
+C000887,0,High Value Engaged
+C000888,0,High Value Engaged
+C000889,0,High Value Engaged
+C000890,0,High Value Engaged
+C000891,0,High Value Engaged
+C000892,0,High Value Engaged
+C000893,0,High Value Engaged
+C000894,0,High Value Engaged
+C000895,0,High Value Engaged
+C000896,1,At Risk
+C000897,0,High Value Engaged
+C000898,0,High Value Engaged
+C000899,2,Low Engagement
+C000900,0,High Value Engaged
+C000901,2,Low Engagement
+C000902,1,At Risk
+C000903,3,Price Sensitive
+C000904,0,High Value Engaged
+C000905,0,High Value Engaged
+C000906,2,Low Engagement
+C000907,2,Low Engagement
+C000908,0,High Value Engaged
+C000909,2,Low Engagement
+C000910,0,High Value Engaged
+C000911,0,High Value Engaged
+C000912,2,Low Engagement
+C000913,2,Low Engagement
+C000914,0,High Value Engaged
+C000915,0,High Value Engaged
+C000916,0,High Value Engaged
+C000917,0,High Value Engaged
+C000918,1,At Risk
+C000919,1,At Risk
+C000920,1,At Risk
+C000921,0,High Value Engaged
+C000922,0,High Value Engaged
+C000923,0,High Value Engaged
+C000924,0,High Value Engaged
+C000925,0,High Value Engaged
+C000926,1,At Risk
+C000927,3,Price Sensitive
+C000928,1,At Risk
+C000929,1,At Risk
+C000930,2,Low Engagement
+C000931,1,At Risk
+C000932,1,At Risk
+C000933,0,High Value Engaged
+C000934,0,High Value Engaged
+C000935,0,High Value Engaged
+C000936,2,Low Engagement
+C000937,0,High Value Engaged
+C000938,0,High Value Engaged
+C000939,0,High Value Engaged
+C000940,2,Low Engagement
+C000941,0,High Value Engaged
+C000942,1,At Risk
+C000943,0,High Value Engaged
+C000944,2,Low Engagement
+C000945,0,High Value Engaged
+C000946,0,High Value Engaged
+C000947,0,High Value Engaged
+C000948,0,High Value Engaged
+C000949,1,At Risk
+C000950,0,High Value Engaged
+C000951,2,Low Engagement
+C000952,0,High Value Engaged
+C000953,0,High Value Engaged
+C000954,3,Price Sensitive
+C000955,2,Low Engagement
+C000956,1,At Risk
+C000957,2,Low Engagement
+C000958,2,Low Engagement
+C000959,0,High Value Engaged
+C000960,0,High Value Engaged
+C000961,0,High Value Engaged
+C000962,0,High Value Engaged
+C000963,0,High Value Engaged
+C000964,1,At Risk
+C000965,1,At Risk
+C000966,0,High Value Engaged
+C000967,0,High Value Engaged
+C000968,1,At Risk
+C000969,0,High Value Engaged
+C000970,1,At Risk
+C000971,0,High Value Engaged
+C000972,1,At Risk
+C000973,0,High Value Engaged
+C000974,0,High Value Engaged
+C000975,2,Low Engagement
+C000976,0,High Value Engaged
+C000977,0,High Value Engaged
+C000978,0,High Value Engaged
+C000979,0,High Value Engaged
+C000980,0,High Value Engaged
+C000981,0,High Value Engaged
+C000982,0,High Value Engaged
+C000983,2,Low Engagement
+C000984,0,High Value Engaged
+C000985,0,High Value Engaged
+C000986,0,High Value Engaged
+C000987,2,Low Engagement
+C000988,0,High Value Engaged
+C000989,1,At Risk
+C000990,0,High Value Engaged
+C000991,0,High Value Engaged
+C000992,1,At Risk
+C000993,2,Low Engagement
+C000994,2,Low Engagement
+C000995,1,At Risk
+C000996,0,High Value Engaged
+C000997,0,High Value Engaged
+C000998,0,High Value Engaged
+C000999,1,At Risk
+C001000,0,High Value Engaged
+C001001,0,High Value Engaged
+C001002,0,High Value Engaged
+C001003,0,High Value Engaged
+C001004,0,High Value Engaged
+C001005,0,High Value Engaged
+C001006,1,At Risk
+C001007,1,At Risk
+C001008,0,High Value Engaged
+C001009,0,High Value Engaged
+C001010,0,High Value Engaged
+C001011,0,High Value Engaged
+C001012,0,High Value Engaged
+C001013,0,High Value Engaged
+C001014,0,High Value Engaged
+C001015,0,High Value Engaged
+C001016,0,High Value Engaged
+C001017,1,At Risk
+C001018,1,At Risk
+C001019,0,High Value Engaged
+C001020,0,High Value Engaged
+C001021,0,High Value Engaged
+C001022,1,At Risk
+C001023,0,High Value Engaged
+C001024,0,High Value Engaged
+C001025,0,High Value Engaged
+C001026,0,High Value Engaged
+C001027,0,High Value Engaged
+C001028,1,At Risk
+C001029,0,High Value Engaged
+C001030,1,At Risk
+C001031,0,High Value Engaged
+C001032,1,At Risk
+C001033,0,High Value Engaged
+C001034,0,High Value Engaged
+C001035,0,High Value Engaged
+C001036,0,High Value Engaged
+C001037,0,High Value Engaged
+C001038,0,High Value Engaged
+C001039,0,High Value Engaged
+C001040,1,At Risk
+C001041,0,High Value Engaged
+C001042,1,At Risk
+C001043,1,At Risk
+C001044,1,At Risk
+C001045,1,At Risk
+C001046,2,Low Engagement
+C001047,0,High Value Engaged
+C001048,0,High Value Engaged
+C001049,1,At Risk
+C001050,0,High Value Engaged
+C001051,0,High Value Engaged
+C001052,0,High Value Engaged
+C001053,2,Low Engagement
+C001054,0,High Value Engaged
+C001055,2,Low Engagement
+C001056,0,High Value Engaged
+C001057,0,High Value Engaged
+C001058,1,At Risk
+C001059,0,High Value Engaged
+C001060,0,High Value Engaged
+C001061,2,Low Engagement
+C001062,0,High Value Engaged
+C001063,0,High Value Engaged
+C001064,0,High Value Engaged
+C001065,0,High Value Engaged
+C001066,2,Low Engagement
+C001067,0,High Value Engaged
+C001068,0,High Value Engaged
+C001069,3,Price Sensitive
+C001070,3,Price Sensitive
+C001071,0,High Value Engaged
+C001072,1,At Risk
+C001073,0,High Value Engaged
+C001074,2,Low Engagement
+C001075,0,High Value Engaged
+C001076,3,Price Sensitive
+C001077,1,At Risk
+C001078,1,At Risk
+C001079,0,High Value Engaged
+C001080,0,High Value Engaged
+C001081,1,At Risk
+C001082,1,At Risk
+C001083,0,High Value Engaged
+C001084,1,At Risk
+C001085,1,At Risk
+C001086,0,High Value Engaged
+C001087,0,High Value Engaged
+C001088,0,High Value Engaged
+C001089,2,Low Engagement
+C001090,0,High Value Engaged
+C001091,0,High Value Engaged
+C001092,1,At Risk
+C001093,0,High Value Engaged
+C001094,2,Low Engagement
+C001095,0,High Value Engaged
+C001096,0,High Value Engaged
+C001097,0,High Value Engaged
+C001098,2,Low Engagement
+C001099,0,High Value Engaged
+C001100,0,High Value Engaged
+C001101,0,High Value Engaged
+C001102,0,High Value Engaged
+C001103,1,At Risk
+C001104,3,Price Sensitive
+C001105,0,High Value Engaged
+C001106,1,At Risk
+C001107,0,High Value Engaged
+C001108,0,High Value Engaged
+C001109,0,High Value Engaged
+C001110,0,High Value Engaged
+C001111,2,Low Engagement
+C001112,0,High Value Engaged
+C001113,1,At Risk
+C001114,1,At Risk
+C001115,1,At Risk
+C001116,0,High Value Engaged
+C001117,2,Low Engagement
+C001118,0,High Value Engaged
+C001119,2,Low Engagement
+C001120,1,At Risk
+C001121,1,At Risk
+C001122,0,High Value Engaged
+C001123,0,High Value Engaged
+C001124,0,High Value Engaged
+C001125,1,At Risk
+C001126,0,High Value Engaged
+C001127,2,Low Engagement
+C001128,0,High Value Engaged
+C001129,0,High Value Engaged
+C001130,0,High Value Engaged
+C001131,0,High Value Engaged
+C001132,1,At Risk
+C001133,0,High Value Engaged
+C001134,3,Price Sensitive
+C001135,0,High Value Engaged
+C001136,1,At Risk
+C001137,1,At Risk
+C001138,0,High Value Engaged
+C001139,0,High Value Engaged
+C001140,1,At Risk
+C001141,2,Low Engagement
+C001142,1,At Risk
+C001143,0,High Value Engaged
+C001144,0,High Value Engaged
+C001145,0,High Value Engaged
+C001146,0,High Value Engaged
+C001147,0,High Value Engaged
+C001148,0,High Value Engaged
+C001149,1,At Risk
+C001150,0,High Value Engaged
+C001151,3,Price Sensitive
+C001152,0,High Value Engaged
+C001153,0,High Value Engaged
+C001154,2,Low Engagement
+C001155,2,Low Engagement
+C001156,0,High Value Engaged
+C001157,0,High Value Engaged
+C001158,0,High Value Engaged
+C001159,0,High Value Engaged
+C001160,0,High Value Engaged
+C001161,0,High Value Engaged
+C001162,0,High Value Engaged
+C001163,0,High Value Engaged
+C001164,2,Low Engagement
+C001165,0,High Value Engaged
+C001166,0,High Value Engaged
+C001167,0,High Value Engaged
+C001168,0,High Value Engaged
+C001169,0,High Value Engaged
+C001170,1,At Risk
+C001171,0,High Value Engaged
+C001172,0,High Value Engaged
+C001173,0,High Value Engaged
+C001174,1,At Risk
+C001175,1,At Risk
+C001176,2,Low Engagement
+C001177,0,High Value Engaged
+C001178,0,High Value Engaged
+C001179,0,High Value Engaged
+C001180,0,High Value Engaged
+C001181,0,High Value Engaged
+C001182,1,At Risk
+C001183,0,High Value Engaged
+C001184,0,High Value Engaged
+C001185,0,High Value Engaged
+C001186,2,Low Engagement
+C001187,0,High Value Engaged
+C001188,1,At Risk
+C001189,0,High Value Engaged
+C001190,0,High Value Engaged
+C001191,0,High Value Engaged
+C001192,1,At Risk
+C001193,0,High Value Engaged
+C001194,0,High Value Engaged
+C001195,0,High Value Engaged
+C001196,2,Low Engagement
+C001197,0,High Value Engaged
+C001198,0,High Value Engaged
+C001199,0,High Value Engaged
+C001200,1,At Risk
+C001201,0,High Value Engaged
+C001202,1,At Risk
+C001203,0,High Value Engaged
+C001204,0,High Value Engaged
+C001205,0,High Value Engaged
+C001206,0,High Value Engaged
+C001207,0,High Value Engaged
+C001208,3,Price Sensitive
+C001209,1,At Risk
+C001210,1,At Risk
+C001211,0,High Value Engaged
+C001212,2,Low Engagement
+C001213,0,High Value Engaged
+C001214,0,High Value Engaged
+C001215,0,High Value Engaged
+C001216,0,High Value Engaged
+C001217,2,Low Engagement
+C001218,0,High Value Engaged
+C001219,1,At Risk
+C001220,0,High Value Engaged
+C001221,2,Low Engagement
+C001222,0,High Value Engaged
+C001223,0,High Value Engaged
+C001224,1,At Risk
+C001225,0,High Value Engaged
+C001226,0,High Value Engaged
+C001227,1,At Risk
+C001228,0,High Value Engaged
+C001229,1,At Risk
+C001230,0,High Value Engaged
+C001231,0,High Value Engaged
+C001232,1,At Risk
+C001233,1,At Risk
+C001234,0,High Value Engaged
+C001235,2,Low Engagement
+C001236,0,High Value Engaged
+C001237,2,Low Engagement
+C001238,0,High Value Engaged
+C001239,0,High Value Engaged
+C001240,1,At Risk
+C001241,1,At Risk
+C001242,1,At Risk
+C001243,0,High Value Engaged
+C001244,2,Low Engagement
+C001245,2,Low Engagement
+C001246,0,High Value Engaged
+C001247,0,High Value Engaged
+C001248,1,At Risk
+C001249,3,Price Sensitive
+C001250,1,At Risk
+C001251,2,Low Engagement
+C001252,1,At Risk
+C001253,0,High Value Engaged
+C001254,0,High Value Engaged
+C001255,0,High Value Engaged
+C001256,0,High Value Engaged
+C001257,0,High Value Engaged
+C001258,1,At Risk
+C001259,0,High Value Engaged
+C001260,0,High Value Engaged
+C001261,0,High Value Engaged
+C001262,2,Low Engagement
+C001263,0,High Value Engaged
+C001264,0,High Value Engaged
+C001265,3,Price Sensitive
+C001266,0,High Value Engaged
+C001267,0,High Value Engaged
+C001268,0,High Value Engaged
+C001269,0,High Value Engaged
+C001270,1,At Risk
+C001271,0,High Value Engaged
+C001272,2,Low Engagement
+C001273,0,High Value Engaged
+C001274,0,High Value Engaged
+C001275,0,High Value Engaged
+C001276,1,At Risk
+C001277,0,High Value Engaged
+C001278,1,At Risk
+C001279,0,High Value Engaged
+C001280,0,High Value Engaged
+C001281,0,High Value Engaged
+C001282,0,High Value Engaged
+C001283,0,High Value Engaged
+C001284,0,High Value Engaged
+C001285,0,High Value Engaged
+C001286,0,High Value Engaged
+C001287,0,High Value Engaged
+C001288,0,High Value Engaged
+C001289,0,High Value Engaged
+C001290,0,High Value Engaged
+C001291,0,High Value Engaged
+C001292,0,High Value Engaged
+C001293,3,Price Sensitive
+C001294,2,Low Engagement
+C001295,0,High Value Engaged
+C001296,0,High Value Engaged
+C001297,1,At Risk
+C001298,2,Low Engagement
+C001299,0,High Value Engaged
+C001300,1,At Risk
+C001301,0,High Value Engaged
+C001302,0,High Value Engaged
+C001303,2,Low Engagement
+C001304,1,At Risk
+C001305,0,High Value Engaged
+C001306,0,High Value Engaged
+C001307,1,At Risk
+C001308,0,High Value Engaged
+C001309,1,At Risk
+C001310,0,High Value Engaged
+C001311,1,At Risk
+C001312,0,High Value Engaged
+C001313,0,High Value Engaged
+C001314,0,High Value Engaged
+C001315,0,High Value Engaged
+C001316,0,High Value Engaged
+C001317,1,At Risk
+C001318,0,High Value Engaged
+C001319,0,High Value Engaged
+C001320,1,At Risk
+C001321,1,At Risk
+C001322,0,High Value Engaged
+C001323,2,Low Engagement
+C001324,0,High Value Engaged
+C001325,0,High Value Engaged
+C001326,0,High Value Engaged
+C001327,0,High Value Engaged
+C001328,0,High Value Engaged
+C001329,0,High Value Engaged
+C001330,2,Low Engagement
+C001331,2,Low Engagement
+C001332,0,High Value Engaged
+C001333,0,High Value Engaged
+C001334,0,High Value Engaged
+C001335,2,Low Engagement
+C001336,2,Low Engagement
+C001337,0,High Value Engaged
+C001338,1,At Risk
+C001339,0,High Value Engaged
+C001340,1,At Risk
+C001341,0,High Value Engaged
+C001342,0,High Value Engaged
+C001343,2,Low Engagement
+C001344,3,Price Sensitive
+C001345,0,High Value Engaged
+C001346,1,At Risk
+C001347,0,High Value Engaged
+C001348,0,High Value Engaged
+C001349,2,Low Engagement
+C001350,0,High Value Engaged
+C001351,1,At Risk
+C001352,0,High Value Engaged
+C001353,0,High Value Engaged
+C001354,1,At Risk
+C001355,0,High Value Engaged
+C001356,0,High Value Engaged
+C001357,1,At Risk
+C001358,0,High Value Engaged
+C001359,0,High Value Engaged
+C001360,0,High Value Engaged
+C001361,1,At Risk
+C001362,0,High Value Engaged
+C001363,3,Price Sensitive
+C001364,0,High Value Engaged
+C001365,0,High Value Engaged
+C001366,0,High Value Engaged
+C001367,0,High Value Engaged
+C001368,1,At Risk
+C001369,2,Low Engagement
+C001370,0,High Value Engaged
+C001371,0,High Value Engaged
+C001372,2,Low Engagement
+C001373,0,High Value Engaged
+C001374,1,At Risk
+C001375,2,Low Engagement
+C001376,1,At Risk
+C001377,2,Low Engagement
+C001378,2,Low Engagement
+C001379,0,High Value Engaged
+C001380,0,High Value Engaged
+C001381,0,High Value Engaged
+C001382,1,At Risk
+C001383,0,High Value Engaged
+C001384,1,At Risk
+C001385,0,High Value Engaged
+C001386,0,High Value Engaged
+C001387,0,High Value Engaged
+C001388,0,High Value Engaged
+C001389,0,High Value Engaged
+C001390,1,At Risk
+C001391,0,High Value Engaged
+C001392,1,At Risk
+C001393,1,At Risk
+C001394,0,High Value Engaged
+C001395,0,High Value Engaged
+C001396,0,High Value Engaged
+C001397,0,High Value Engaged
+C001398,0,High Value Engaged
+C001399,0,High Value Engaged
+C001400,1,At Risk
+C001401,0,High Value Engaged
+C001402,0,High Value Engaged
+C001403,0,High Value Engaged
+C001404,0,High Value Engaged
+C001405,1,At Risk
+C001406,1,At Risk
+C001407,1,At Risk
+C001408,2,Low Engagement
+C001409,1,At Risk
+C001410,0,High Value Engaged
+C001411,0,High Value Engaged
+C001412,0,High Value Engaged
+C001413,2,Low Engagement
+C001414,2,Low Engagement
+C001415,1,At Risk
+C001416,0,High Value Engaged
+C001417,0,High Value Engaged
+C001418,2,Low Engagement
+C001419,3,Price Sensitive
+C001420,0,High Value Engaged
+C001421,0,High Value Engaged
+C001422,0,High Value Engaged
+C001423,0,High Value Engaged
+C001424,3,Price Sensitive
+C001425,0,High Value Engaged
+C001426,0,High Value Engaged
+C001427,1,At Risk
+C001428,0,High Value Engaged
+C001429,0,High Value Engaged
+C001430,0,High Value Engaged
+C001431,0,High Value Engaged
+C001432,0,High Value Engaged
+C001433,0,High Value Engaged
+C001434,0,High Value Engaged
+C001435,0,High Value Engaged
+C001436,2,Low Engagement
+C001437,3,Price Sensitive
+C001438,0,High Value Engaged
+C001439,1,At Risk
+C001440,0,High Value Engaged
+C001441,0,High Value Engaged
+C001442,0,High Value Engaged
+C001443,0,High Value Engaged
+C001444,1,At Risk
+C001445,0,High Value Engaged
+C001446,0,High Value Engaged
+C001447,0,High Value Engaged
+C001448,1,At Risk
+C001449,1,At Risk
+C001450,0,High Value Engaged
+C001451,0,High Value Engaged
+C001452,0,High Value Engaged
+C001453,0,High Value Engaged
+C001454,0,High Value Engaged
+C001455,0,High Value Engaged
+C001456,0,High Value Engaged
+C001457,0,High Value Engaged
+C001458,1,At Risk
+C001459,2,Low Engagement
+C001460,1,At Risk
+C001461,0,High Value Engaged
+C001462,0,High Value Engaged
+C001463,0,High Value Engaged
+C001464,1,At Risk
+C001465,0,High Value Engaged
+C001466,0,High Value Engaged
+C001467,0,High Value Engaged
+C001468,0,High Value Engaged
+C001469,1,At Risk
+C001470,0,High Value Engaged
+C001471,0,High Value Engaged
+C001472,0,High Value Engaged
+C001473,0,High Value Engaged
+C001474,0,High Value Engaged
+C001475,0,High Value Engaged
+C001476,0,High Value Engaged
+C001477,2,Low Engagement
+C001478,1,At Risk
+C001479,2,Low Engagement
+C001480,0,High Value Engaged
+C001481,0,High Value Engaged
+C001482,0,High Value Engaged
+C001483,0,High Value Engaged
+C001484,1,At Risk
+C001485,1,At Risk
+C001486,1,At Risk
+C001487,0,High Value Engaged
+C001488,1,At Risk
+C001489,1,At Risk
+C001490,0,High Value Engaged
+C001491,0,High Value Engaged
+C001492,0,High Value Engaged
+C001493,1,At Risk
+C001494,0,High Value Engaged
+C001495,0,High Value Engaged
+C001496,2,Low Engagement
+C001497,1,At Risk
+C001498,0,High Value Engaged
+C001499,0,High Value Engaged
+C001500,0,High Value Engaged
+C001501,2,Low Engagement
+C001502,0,High Value Engaged
+C001503,1,At Risk
+C001504,0,High Value Engaged
+C001505,0,High Value Engaged
+C001506,0,High Value Engaged
+C001507,0,High Value Engaged
+C001508,0,High Value Engaged
+C001509,0,High Value Engaged
+C001510,2,Low Engagement
+C001511,1,At Risk
+C001512,0,High Value Engaged
+C001513,0,High Value Engaged
+C001514,0,High Value Engaged
+C001515,1,At Risk
+C001516,0,High Value Engaged
+C001517,3,Price Sensitive
+C001518,0,High Value Engaged
+C001519,0,High Value Engaged
+C001520,2,Low Engagement
+C001521,0,High Value Engaged
+C001522,3,Price Sensitive
+C001523,2,Low Engagement
+C001524,0,High Value Engaged
+C001525,0,High Value Engaged
+C001526,0,High Value Engaged
+C001527,0,High Value Engaged
+C001528,0,High Value Engaged
+C001529,0,High Value Engaged
+C001530,0,High Value Engaged
+C001531,0,High Value Engaged
+C001532,1,At Risk
+C001533,1,At Risk
+C001534,2,Low Engagement
+C001535,0,High Value Engaged
+C001536,1,At Risk
+C001537,0,High Value Engaged
+C001538,0,High Value Engaged
+C001539,0,High Value Engaged
+C001540,0,High Value Engaged
+C001541,2,Low Engagement
+C001542,2,Low Engagement
+C001543,0,High Value Engaged
+C001544,0,High Value Engaged
+C001545,0,High Value Engaged
+C001546,1,At Risk
+C001547,0,High Value Engaged
+C001548,0,High Value Engaged
+C001549,0,High Value Engaged
+C001550,0,High Value Engaged
+C001551,2,Low Engagement
+C001552,1,At Risk
+C001553,1,At Risk
+C001554,0,High Value Engaged
+C001555,0,High Value Engaged
+C001556,0,High Value Engaged
+C001557,0,High Value Engaged
+C001558,0,High Value Engaged
+C001559,0,High Value Engaged
+C001560,0,High Value Engaged
+C001561,0,High Value Engaged
+C001562,0,High Value Engaged
+C001563,1,At Risk
+C001564,2,Low Engagement
+C001565,1,At Risk
+C001566,1,At Risk
+C001567,0,High Value Engaged
+C001568,1,At Risk
+C001569,0,High Value Engaged
+C001570,0,High Value Engaged
+C001571,0,High Value Engaged
+C001572,0,High Value Engaged
+C001573,1,At Risk
+C001574,0,High Value Engaged
+C001575,2,Low Engagement
+C001576,0,High Value Engaged
+C001577,0,High Value Engaged
+C001578,3,Price Sensitive
+C001579,0,High Value Engaged
+C001580,0,High Value Engaged
+C001581,2,Low Engagement
+C001582,2,Low Engagement
+C001583,0,High Value Engaged
+C001584,0,High Value Engaged
+C001585,0,High Value Engaged
+C001586,0,High Value Engaged
+C001587,0,High Value Engaged
+C001588,2,Low Engagement
+C001589,0,High Value Engaged
+C001590,1,At Risk
+C001591,2,Low Engagement
+C001592,2,Low Engagement
+C001593,0,High Value Engaged
+C001594,2,Low Engagement
+C001595,0,High Value Engaged
+C001596,0,High Value Engaged
+C001597,0,High Value Engaged
+C001598,1,At Risk
+C001599,0,High Value Engaged
+C001600,0,High Value Engaged
+C001601,0,High Value Engaged
+C001602,0,High Value Engaged
+C001603,0,High Value Engaged
+C001604,0,High Value Engaged
+C001605,0,High Value Engaged
+C001606,1,At Risk
+C001607,3,Price Sensitive
+C001608,2,Low Engagement
+C001609,0,High Value Engaged
+C001610,0,High Value Engaged
+C001611,0,High Value Engaged
+C001612,0,High Value Engaged
+C001613,1,At Risk
+C001614,3,Price Sensitive
+C001615,0,High Value Engaged
+C001616,1,At Risk
+C001617,1,At Risk
+C001618,0,High Value Engaged
+C001619,2,Low Engagement
+C001620,2,Low Engagement
+C001621,2,Low Engagement
+C001622,1,At Risk
+C001623,1,At Risk
+C001624,3,Price Sensitive
+C001625,0,High Value Engaged
+C001626,3,Price Sensitive
+C001627,1,At Risk
+C001628,1,At Risk
+C001629,1,At Risk
+C001630,1,At Risk
+C001631,0,High Value Engaged
+C001632,0,High Value Engaged
+C001633,3,Price Sensitive
+C001634,0,High Value Engaged
+C001635,0,High Value Engaged
+C001636,1,At Risk
+C001637,2,Low Engagement
+C001638,0,High Value Engaged
+C001639,2,Low Engagement
+C001640,0,High Value Engaged
+C001641,0,High Value Engaged
+C001642,0,High Value Engaged
+C001643,0,High Value Engaged
+C001644,1,At Risk
+C001645,0,High Value Engaged
+C001646,0,High Value Engaged
+C001647,0,High Value Engaged
+C001648,0,High Value Engaged
+C001649,2,Low Engagement
+C001650,0,High Value Engaged
+C001651,0,High Value Engaged
+C001652,0,High Value Engaged
+C001653,0,High Value Engaged
+C001654,3,Price Sensitive
+C001655,0,High Value Engaged
+C001656,0,High Value Engaged
+C001657,0,High Value Engaged
+C001658,0,High Value Engaged
+C001659,0,High Value Engaged
+C001660,0,High Value Engaged
+C001661,0,High Value Engaged
+C001662,3,Price Sensitive
+C001663,2,Low Engagement
+C001664,0,High Value Engaged
+C001665,2,Low Engagement
+C001666,1,At Risk
+C001667,1,At Risk
+C001668,0,High Value Engaged
+C001669,1,At Risk
+C001670,0,High Value Engaged
+C001671,0,High Value Engaged
+C001672,0,High Value Engaged
+C001673,1,At Risk
+C001674,0,High Value Engaged
+C001675,0,High Value Engaged
+C001676,0,High Value Engaged
+C001677,3,Price Sensitive
+C001678,2,Low Engagement
+C001679,0,High Value Engaged
+C001680,0,High Value Engaged
+C001681,0,High Value Engaged
+C001682,0,High Value Engaged
+C001683,0,High Value Engaged
+C001684,0,High Value Engaged
+C001685,1,At Risk
+C001686,1,At Risk
+C001687,1,At Risk
+C001688,0,High Value Engaged
+C001689,0,High Value Engaged
+C001690,1,At Risk
+C001691,0,High Value Engaged
+C001692,0,High Value Engaged
+C001693,0,High Value Engaged
+C001694,1,At Risk
+C001695,2,Low Engagement
+C001696,0,High Value Engaged
+C001697,0,High Value Engaged
+C001698,0,High Value Engaged
+C001699,1,At Risk
+C001700,0,High Value Engaged
+C001701,0,High Value Engaged
+C001702,1,At Risk
+C001703,1,At Risk
+C001704,0,High Value Engaged
+C001705,0,High Value Engaged
+C001706,2,Low Engagement
+C001707,2,Low Engagement
+C001708,0,High Value Engaged
+C001709,2,Low Engagement
+C001710,0,High Value Engaged
+C001711,0,High Value Engaged
+C001712,1,At Risk
+C001713,0,High Value Engaged
+C001714,0,High Value Engaged
+C001715,2,Low Engagement
+C001716,1,At Risk
+C001717,0,High Value Engaged
+C001718,2,Low Engagement
+C001719,0,High Value Engaged
+C001720,0,High Value Engaged
+C001721,0,High Value Engaged
+C001722,1,At Risk
+C001723,1,At Risk
+C001724,0,High Value Engaged
+C001725,2,Low Engagement
+C001726,2,Low Engagement
+C001727,0,High Value Engaged
+C001728,0,High Value Engaged
+C001729,0,High Value Engaged
+C001730,1,At Risk
+C001731,0,High Value Engaged
+C001732,0,High Value Engaged
+C001733,2,Low Engagement
+C001734,0,High Value Engaged
+C001735,1,At Risk
+C001736,0,High Value Engaged
+C001737,0,High Value Engaged
+C001738,0,High Value Engaged
+C001739,1,At Risk
+C001740,1,At Risk
+C001741,0,High Value Engaged
+C001742,0,High Value Engaged
+C001743,0,High Value Engaged
+C001744,0,High Value Engaged
+C001745,0,High Value Engaged
+C001746,1,At Risk
+C001747,0,High Value Engaged
+C001748,0,High Value Engaged
+C001749,0,High Value Engaged
+C001750,0,High Value Engaged
+C001751,0,High Value Engaged
+C001752,1,At Risk
+C001753,1,At Risk
+C001754,2,Low Engagement
+C001755,0,High Value Engaged
+C001756,2,Low Engagement
+C001757,0,High Value Engaged
+C001758,1,At Risk
+C001759,0,High Value Engaged
+C001760,1,At Risk
+C001761,2,Low Engagement
+C001762,0,High Value Engaged
+C001763,3,Price Sensitive
+C001764,0,High Value Engaged
+C001765,2,Low Engagement
+C001766,0,High Value Engaged
+C001767,0,High Value Engaged
+C001768,1,At Risk
+C001769,2,Low Engagement
+C001770,0,High Value Engaged
+C001771,1,At Risk
+C001772,0,High Value Engaged
+C001773,0,High Value Engaged
+C001774,0,High Value Engaged
+C001775,0,High Value Engaged
+C001776,2,Low Engagement
+C001777,0,High Value Engaged
+C001778,0,High Value Engaged
+C001779,1,At Risk
+C001780,1,At Risk
+C001781,0,High Value Engaged
+C001782,1,At Risk
+C001783,0,High Value Engaged
+C001784,1,At Risk
+C001785,0,High Value Engaged
+C001786,0,High Value Engaged
+C001787,1,At Risk
+C001788,1,At Risk
+C001789,0,High Value Engaged
+C001790,2,Low Engagement
+C001791,0,High Value Engaged
+C001792,0,High Value Engaged
+C001793,0,High Value Engaged
+C001794,0,High Value Engaged
+C001795,1,At Risk
+C001796,2,Low Engagement
+C001797,0,High Value Engaged
+C001798,0,High Value Engaged
+C001799,1,At Risk
+C001800,1,At Risk
+C001801,0,High Value Engaged
+C001802,1,At Risk
+C001803,1,At Risk
+C001804,0,High Value Engaged
+C001805,1,At Risk
+C001806,1,At Risk
+C001807,1,At Risk
+C001808,3,Price Sensitive
+C001809,1,At Risk
+C001810,0,High Value Engaged
+C001811,0,High Value Engaged
+C001812,0,High Value Engaged
+C001813,0,High Value Engaged
+C001814,0,High Value Engaged
+C001815,1,At Risk
+C001816,0,High Value Engaged
+C001817,1,At Risk
+C001818,2,Low Engagement
+C001819,3,Price Sensitive
+C001820,1,At Risk
+C001821,0,High Value Engaged
+C001822,0,High Value Engaged
+C001823,0,High Value Engaged
+C001824,1,At Risk
+C001825,0,High Value Engaged
+C001826,0,High Value Engaged
+C001827,0,High Value Engaged
+C001828,0,High Value Engaged
+C001829,1,At Risk
+C001830,0,High Value Engaged
+C001831,0,High Value Engaged
+C001832,1,At Risk
+C001833,2,Low Engagement
+C001834,0,High Value Engaged
+C001835,0,High Value Engaged
+C001836,0,High Value Engaged
+C001837,1,At Risk
+C001838,0,High Value Engaged
+C001839,0,High Value Engaged
+C001840,2,Low Engagement
+C001841,0,High Value Engaged
+C001842,0,High Value Engaged
+C001843,2,Low Engagement
+C001844,0,High Value Engaged
+C001845,2,Low Engagement
+C001846,1,At Risk
+C001847,0,High Value Engaged
+C001848,0,High Value Engaged
+C001849,0,High Value Engaged
+C001850,0,High Value Engaged
+C001851,2,Low Engagement
+C001852,2,Low Engagement
+C001853,0,High Value Engaged
+C001854,0,High Value Engaged
+C001855,1,At Risk
+C001856,2,Low Engagement
+C001857,0,High Value Engaged
+C001858,0,High Value Engaged
+C001859,1,At Risk
+C001860,2,Low Engagement
+C001861,0,High Value Engaged
+C001862,2,Low Engagement
+C001863,0,High Value Engaged
+C001864,1,At Risk
+C001865,3,Price Sensitive
+C001866,1,At Risk
+C001867,0,High Value Engaged
+C001868,0,High Value Engaged
+C001869,0,High Value Engaged
+C001870,1,At Risk
+C001871,0,High Value Engaged
+C001872,0,High Value Engaged
+C001873,0,High Value Engaged
+C001874,0,High Value Engaged
+C001875,1,At Risk
+C001876,0,High Value Engaged
+C001877,1,At Risk
+C001878,1,At Risk
+C001879,3,Price Sensitive
+C001880,2,Low Engagement
+C001881,0,High Value Engaged
+C001882,0,High Value Engaged
+C001883,0,High Value Engaged
+C001884,2,Low Engagement
+C001885,2,Low Engagement
+C001886,0,High Value Engaged
+C001887,1,At Risk
+C001888,2,Low Engagement
+C001889,0,High Value Engaged
+C001890,0,High Value Engaged
+C001891,0,High Value Engaged
+C001892,3,Price Sensitive
+C001893,0,High Value Engaged
+C001894,0,High Value Engaged
+C001895,1,At Risk
+C001896,2,Low Engagement
+C001897,0,High Value Engaged
+C001898,3,Price Sensitive
+C001899,1,At Risk
+C001900,2,Low Engagement
+C001901,2,Low Engagement
+C001902,0,High Value Engaged
+C001903,1,At Risk
+C001904,0,High Value Engaged
+C001905,0,High Value Engaged
+C001906,0,High Value Engaged
+C001907,0,High Value Engaged
+C001908,0,High Value Engaged
+C001909,2,Low Engagement
+C001910,1,At Risk
+C001911,0,High Value Engaged
+C001912,0,High Value Engaged
+C001913,3,Price Sensitive
+C001914,2,Low Engagement
+C001915,0,High Value Engaged
+C001916,0,High Value Engaged
+C001917,3,Price Sensitive
+C001918,1,At Risk
+C001919,0,High Value Engaged
+C001920,0,High Value Engaged
+C001921,2,Low Engagement
+C001922,0,High Value Engaged
+C001923,3,Price Sensitive
+C001924,2,Low Engagement
+C001925,0,High Value Engaged
+C001926,2,Low Engagement
+C001927,1,At Risk
+C001928,1,At Risk
+C001929,0,High Value Engaged
+C001930,0,High Value Engaged
+C001931,1,At Risk
+C001932,0,High Value Engaged
+C001933,0,High Value Engaged
+C001934,0,High Value Engaged
+C001935,0,High Value Engaged
+C001936,0,High Value Engaged
+C001937,0,High Value Engaged
+C001938,2,Low Engagement
+C001939,0,High Value Engaged
+C001940,0,High Value Engaged
+C001941,1,At Risk
+C001942,0,High Value Engaged
+C001943,1,At Risk
+C001944,1,At Risk
+C001945,0,High Value Engaged
+C001946,0,High Value Engaged
+C001947,0,High Value Engaged
+C001948,0,High Value Engaged
+C001949,0,High Value Engaged
+C001950,2,Low Engagement
+C001951,0,High Value Engaged
+C001952,0,High Value Engaged
+C001953,0,High Value Engaged
+C001954,0,High Value Engaged
+C001955,1,At Risk
+C001956,0,High Value Engaged
+C001957,0,High Value Engaged
+C001958,0,High Value Engaged
+C001959,0,High Value Engaged
+C001960,0,High Value Engaged
+C001961,0,High Value Engaged
+C001962,1,At Risk
+C001963,0,High Value Engaged
+C001964,0,High Value Engaged
+C001965,0,High Value Engaged
+C001966,2,Low Engagement
+C001967,1,At Risk
+C001968,0,High Value Engaged
+C001969,0,High Value Engaged
+C001970,0,High Value Engaged
+C001971,0,High Value Engaged
+C001972,0,High Value Engaged
+C001973,0,High Value Engaged
+C001974,1,At Risk
+C001975,0,High Value Engaged
+C001976,0,High Value Engaged
+C001977,1,At Risk
+C001978,2,Low Engagement
+C001979,0,High Value Engaged
+C001980,1,At Risk
+C001981,0,High Value Engaged
+C001982,2,Low Engagement
+C001983,0,High Value Engaged
+C001984,1,At Risk
+C001985,0,High Value Engaged
+C001986,0,High Value Engaged
+C001987,2,Low Engagement
+C001988,1,At Risk
+C001989,0,High Value Engaged
+C001990,0,High Value Engaged
+C001991,0,High Value Engaged
+C001992,2,Low Engagement
+C001993,0,High Value Engaged
+C001994,1,At Risk
+C001995,0,High Value Engaged
+C001996,1,At Risk
+C001997,0,High Value Engaged
+C001998,0,High Value Engaged
+C001999,0,High Value Engaged
+C002000,1,At Risk
+C002001,0,High Value Engaged
+C002002,2,Low Engagement
+C002003,0,High Value Engaged
+C002004,3,Price Sensitive
+C002005,0,High Value Engaged
+C002006,1,At Risk
+C002007,0,High Value Engaged
+C002008,0,High Value Engaged
+C002009,0,High Value Engaged
+C002010,1,At Risk
+C002011,1,At Risk
+C002012,1,At Risk
+C002013,0,High Value Engaged
+C002014,0,High Value Engaged
+C002015,0,High Value Engaged
+C002016,0,High Value Engaged
+C002017,0,High Value Engaged
+C002018,0,High Value Engaged
+C002019,0,High Value Engaged
+C002020,0,High Value Engaged
+C002021,0,High Value Engaged
+C002022,0,High Value Engaged
+C002023,2,Low Engagement
+C002024,1,At Risk
+C002025,2,Low Engagement
+C002026,0,High Value Engaged
+C002027,2,Low Engagement
+C002028,0,High Value Engaged
+C002029,3,Price Sensitive
+C002030,1,At Risk
+C002031,0,High Value Engaged
+C002032,0,High Value Engaged
+C002033,0,High Value Engaged
+C002034,3,Price Sensitive
+C002035,0,High Value Engaged
+C002036,0,High Value Engaged
+C002037,0,High Value Engaged
+C002038,0,High Value Engaged
+C002039,0,High Value Engaged
+C002040,0,High Value Engaged
+C002041,0,High Value Engaged
+C002042,0,High Value Engaged
+C002043,0,High Value Engaged
+C002044,0,High Value Engaged
+C002045,2,Low Engagement
+C002046,0,High Value Engaged
+C002047,0,High Value Engaged
+C002048,1,At Risk
+C002049,0,High Value Engaged
+C002050,1,At Risk
+C002051,0,High Value Engaged
+C002052,0,High Value Engaged
+C002053,1,At Risk
+C002054,0,High Value Engaged
+C002055,1,At Risk
+C002056,1,At Risk
+C002057,0,High Value Engaged
+C002058,0,High Value Engaged
+C002059,0,High Value Engaged
+C002060,0,High Value Engaged
+C002061,2,Low Engagement
+C002062,2,Low Engagement
+C002063,0,High Value Engaged
+C002064,0,High Value Engaged
+C002065,0,High Value Engaged
+C002066,2,Low Engagement
+C002067,1,At Risk
+C002068,0,High Value Engaged
+C002069,0,High Value Engaged
+C002070,0,High Value Engaged
+C002071,0,High Value Engaged
+C002072,2,Low Engagement
+C002073,1,At Risk
+C002074,0,High Value Engaged
+C002075,0,High Value Engaged
+C002076,0,High Value Engaged
+C002077,1,At Risk
+C002078,0,High Value Engaged
+C002079,0,High Value Engaged
+C002080,2,Low Engagement
+C002081,0,High Value Engaged
+C002082,0,High Value Engaged
+C002083,0,High Value Engaged
+C002084,2,Low Engagement
+C002085,1,At Risk
+C002086,2,Low Engagement
+C002087,0,High Value Engaged
+C002088,2,Low Engagement
+C002089,0,High Value Engaged
+C002090,0,High Value Engaged
+C002091,2,Low Engagement
+C002092,2,Low Engagement
+C002093,2,Low Engagement
+C002094,0,High Value Engaged
+C002095,0,High Value Engaged
+C002096,0,High Value Engaged
+C002097,0,High Value Engaged
+C002098,2,Low Engagement
+C002099,0,High Value Engaged
+C002100,2,Low Engagement
+C002101,0,High Value Engaged
+C002102,0,High Value Engaged
+C002103,1,At Risk
+C002104,0,High Value Engaged
+C002105,0,High Value Engaged
+C002106,0,High Value Engaged
+C002107,1,At Risk
+C002108,0,High Value Engaged
+C002109,0,High Value Engaged
+C002110,0,High Value Engaged
+C002111,0,High Value Engaged
+C002112,0,High Value Engaged
+C002113,2,Low Engagement
+C002114,0,High Value Engaged
+C002115,0,High Value Engaged
+C002116,2,Low Engagement
+C002117,0,High Value Engaged
+C002118,0,High Value Engaged
+C002119,0,High Value Engaged
+C002120,0,High Value Engaged
+C002121,3,Price Sensitive
+C002122,1,At Risk
+C002123,0,High Value Engaged
+C002124,0,High Value Engaged
+C002125,2,Low Engagement
+C002126,0,High Value Engaged
+C002127,0,High Value Engaged
+C002128,0,High Value Engaged
+C002129,1,At Risk
+C002130,0,High Value Engaged
+C002131,0,High Value Engaged
+C002132,0,High Value Engaged
+C002133,0,High Value Engaged
+C002134,1,At Risk
+C002135,0,High Value Engaged
+C002136,0,High Value Engaged
+C002137,0,High Value Engaged
+C002138,1,At Risk
+C002139,0,High Value Engaged
+C002140,2,Low Engagement
+C002141,1,At Risk
+C002142,0,High Value Engaged
+C002143,3,Price Sensitive
+C002144,1,At Risk
+C002145,1,At Risk
+C002146,0,High Value Engaged
+C002147,0,High Value Engaged
+C002148,0,High Value Engaged
+C002149,0,High Value Engaged
+C002150,0,High Value Engaged
+C002151,0,High Value Engaged
+C002152,1,At Risk
+C002153,1,At Risk
+C002154,0,High Value Engaged
+C002155,0,High Value Engaged
+C002156,0,High Value Engaged
+C002157,0,High Value Engaged
+C002158,0,High Value Engaged
+C002159,3,Price Sensitive
+C002160,0,High Value Engaged
+C002161,0,High Value Engaged
+C002162,0,High Value Engaged
+C002163,1,At Risk
+C002164,0,High Value Engaged
+C002165,0,High Value Engaged
+C002166,0,High Value Engaged
+C002167,0,High Value Engaged
+C002168,0,High Value Engaged
+C002169,3,Price Sensitive
+C002170,0,High Value Engaged
+C002171,0,High Value Engaged
+C002172,1,At Risk
+C002173,1,At Risk
+C002174,0,High Value Engaged
+C002175,0,High Value Engaged
+C002176,0,High Value Engaged
+C002177,0,High Value Engaged
+C002178,0,High Value Engaged
+C002179,1,At Risk
+C002180,0,High Value Engaged
+C002181,2,Low Engagement
+C002182,1,At Risk
+C002183,2,Low Engagement
+C002184,1,At Risk
+C002185,2,Low Engagement
+C002186,0,High Value Engaged
+C002187,0,High Value Engaged
+C002188,1,At Risk
+C002189,0,High Value Engaged
+C002190,2,Low Engagement
+C002191,0,High Value Engaged
+C002192,0,High Value Engaged
+C002193,2,Low Engagement
+C002194,0,High Value Engaged
+C002195,0,High Value Engaged
+C002196,0,High Value Engaged
+C002197,1,At Risk
+C002198,1,At Risk
+C002199,0,High Value Engaged
+C002200,0,High Value Engaged
+C002201,0,High Value Engaged
+C002202,0,High Value Engaged
+C002203,0,High Value Engaged
+C002204,3,Price Sensitive
+C002205,1,At Risk
+C002206,0,High Value Engaged
+C002207,0,High Value Engaged
+C002208,0,High Value Engaged
+C002209,1,At Risk
+C002210,0,High Value Engaged
+C002211,0,High Value Engaged
+C002212,0,High Value Engaged
+C002213,0,High Value Engaged
+C002214,2,Low Engagement
+C002215,1,At Risk
+C002216,0,High Value Engaged
+C002217,1,At Risk
+C002218,1,At Risk
+C002219,1,At Risk
+C002220,0,High Value Engaged
+C002221,0,High Value Engaged
+C002222,2,Low Engagement
+C002223,1,At Risk
+C002224,1,At Risk
+C002225,0,High Value Engaged
+C002226,2,Low Engagement
+C002227,0,High Value Engaged
+C002228,2,Low Engagement
+C002229,1,At Risk
+C002230,1,At Risk
+C002231,0,High Value Engaged
+C002232,0,High Value Engaged
+C002233,1,At Risk
+C002234,0,High Value Engaged
+C002235,0,High Value Engaged
+C002236,0,High Value Engaged
+C002237,0,High Value Engaged
+C002238,3,Price Sensitive
+C002239,0,High Value Engaged
+C002240,0,High Value Engaged
+C002241,0,High Value Engaged
+C002242,0,High Value Engaged
+C002243,0,High Value Engaged
+C002244,0,High Value Engaged
+C002245,0,High Value Engaged
+C002246,0,High Value Engaged
+C002247,1,At Risk
+C002248,1,At Risk
+C002249,1,At Risk
+C002250,1,At Risk
+C002251,0,High Value Engaged
+C002252,1,At Risk
+C002253,1,At Risk
+C002254,0,High Value Engaged
+C002255,1,At Risk
+C002256,1,At Risk
+C002257,2,Low Engagement
+C002258,1,At Risk
+C002259,0,High Value Engaged
+C002260,0,High Value Engaged
+C002261,0,High Value Engaged
+C002262,2,Low Engagement
+C002263,0,High Value Engaged
+C002264,2,Low Engagement
+C002265,0,High Value Engaged
+C002266,1,At Risk
+C002267,0,High Value Engaged
+C002268,0,High Value Engaged
+C002269,2,Low Engagement
+C002270,0,High Value Engaged
+C002271,0,High Value Engaged
+C002272,0,High Value Engaged
+C002273,2,Low Engagement
+C002274,2,Low Engagement
+C002275,0,High Value Engaged
+C002276,0,High Value Engaged
+C002277,1,At Risk
+C002278,0,High Value Engaged
+C002279,0,High Value Engaged
+C002280,2,Low Engagement
+C002281,0,High Value Engaged
+C002282,1,At Risk
+C002283,0,High Value Engaged
+C002284,0,High Value Engaged
+C002285,0,High Value Engaged
+C002286,0,High Value Engaged
+C002287,3,Price Sensitive
+C002288,2,Low Engagement
+C002289,0,High Value Engaged
+C002290,0,High Value Engaged
+C002291,0,High Value Engaged
+C002292,0,High Value Engaged
+C002293,0,High Value Engaged
+C002294,0,High Value Engaged
+C002295,0,High Value Engaged
+C002296,0,High Value Engaged
+C002297,0,High Value Engaged
+C002298,1,At Risk
+C002299,1,At Risk
+C002300,0,High Value Engaged
+C002301,0,High Value Engaged
+C002302,0,High Value Engaged
+C002303,2,Low Engagement
+C002304,0,High Value Engaged
+C002305,3,Price Sensitive
+C002306,0,High Value Engaged
+C002307,0,High Value Engaged
+C002308,0,High Value Engaged
+C002309,2,Low Engagement
+C002310,2,Low Engagement
+C002311,0,High Value Engaged
+C002312,2,Low Engagement
+C002313,1,At Risk
+C002314,0,High Value Engaged
+C002315,2,Low Engagement
+C002316,0,High Value Engaged
+C002317,0,High Value Engaged
+C002318,0,High Value Engaged
+C002319,0,High Value Engaged
+C002320,1,At Risk
+C002321,0,High Value Engaged
+C002322,2,Low Engagement
+C002323,0,High Value Engaged
+C002324,1,At Risk
+C002325,0,High Value Engaged
+C002326,0,High Value Engaged
+C002327,0,High Value Engaged
+C002328,1,At Risk
+C002329,1,At Risk
+C002330,0,High Value Engaged
+C002331,0,High Value Engaged
+C002332,0,High Value Engaged
+C002333,0,High Value Engaged
+C002334,0,High Value Engaged
+C002335,0,High Value Engaged
+C002336,0,High Value Engaged
+C002337,2,Low Engagement
+C002338,0,High Value Engaged
+C002339,0,High Value Engaged
+C002340,0,High Value Engaged
+C002341,2,Low Engagement
+C002342,1,At Risk
+C002343,0,High Value Engaged
+C002344,0,High Value Engaged
+C002345,1,At Risk
+C002346,0,High Value Engaged
+C002347,1,At Risk
+C002348,0,High Value Engaged
+C002349,1,At Risk
+C002350,0,High Value Engaged
+C002351,0,High Value Engaged
+C002352,0,High Value Engaged
+C002353,1,At Risk
+C002354,0,High Value Engaged
+C002355,1,At Risk
+C002356,1,At Risk
+C002357,0,High Value Engaged
+C002358,0,High Value Engaged
+C002359,1,At Risk
+C002360,1,At Risk
+C002361,0,High Value Engaged
+C002362,3,Price Sensitive
+C002363,2,Low Engagement
+C002364,0,High Value Engaged
+C002365,2,Low Engagement
+C002366,0,High Value Engaged
+C002367,0,High Value Engaged
+C002368,0,High Value Engaged
+C002369,0,High Value Engaged
+C002370,0,High Value Engaged
+C002371,0,High Value Engaged
+C002372,1,At Risk
+C002373,0,High Value Engaged
+C002374,0,High Value Engaged
+C002375,2,Low Engagement
+C002376,0,High Value Engaged
+C002377,0,High Value Engaged
+C002378,1,At Risk
+C002379,0,High Value Engaged
+C002380,1,At Risk
+C002381,0,High Value Engaged
+C002382,0,High Value Engaged
+C002383,0,High Value Engaged
+C002384,0,High Value Engaged
+C002385,0,High Value Engaged
+C002386,0,High Value Engaged
+C002387,0,High Value Engaged
+C002388,0,High Value Engaged
+C002389,0,High Value Engaged
+C002390,0,High Value Engaged
+C002391,0,High Value Engaged
+C002392,2,Low Engagement
+C002393,0,High Value Engaged
+C002394,1,At Risk
+C002395,1,At Risk
+C002396,0,High Value Engaged
+C002397,0,High Value Engaged
+C002398,1,At Risk
+C002399,0,High Value Engaged
+C002400,0,High Value Engaged
+C002401,0,High Value Engaged
+C002402,1,At Risk
+C002403,0,High Value Engaged
+C002404,0,High Value Engaged
+C002405,2,Low Engagement
+C002406,0,High Value Engaged
+C002407,2,Low Engagement
+C002408,1,At Risk
+C002409,0,High Value Engaged
+C002410,0,High Value Engaged
+C002411,0,High Value Engaged
+C002412,0,High Value Engaged
+C002413,1,At Risk
+C002414,0,High Value Engaged
+C002415,0,High Value Engaged
+C002416,0,High Value Engaged
+C002417,1,At Risk
+C002418,1,At Risk
+C002419,2,Low Engagement
+C002420,0,High Value Engaged
+C002421,0,High Value Engaged
+C002422,0,High Value Engaged
+C002423,0,High Value Engaged
+C002424,0,High Value Engaged
+C002425,1,At Risk
+C002426,0,High Value Engaged
+C002427,0,High Value Engaged
+C002428,0,High Value Engaged
+C002429,0,High Value Engaged
+C002430,1,At Risk
+C002431,0,High Value Engaged
+C002432,0,High Value Engaged
+C002433,0,High Value Engaged
+C002434,0,High Value Engaged
+C002435,0,High Value Engaged
+C002436,2,Low Engagement
+C002437,1,At Risk
+C002438,1,At Risk
+C002439,1,At Risk
+C002440,2,Low Engagement
+C002441,0,High Value Engaged
+C002442,2,Low Engagement
+C002443,2,Low Engagement
+C002444,0,High Value Engaged
+C002445,2,Low Engagement
+C002446,1,At Risk
+C002447,0,High Value Engaged
+C002448,1,At Risk
+C002449,1,At Risk
+C002450,0,High Value Engaged
+C002451,0,High Value Engaged
+C002452,0,High Value Engaged
+C002453,2,Low Engagement
+C002454,1,At Risk
+C002455,0,High Value Engaged
+C002456,1,At Risk
+C002457,0,High Value Engaged
+C002458,0,High Value Engaged
+C002459,0,High Value Engaged
+C002460,1,At Risk
+C002461,0,High Value Engaged
+C002462,0,High Value Engaged
+C002463,0,High Value Engaged
+C002464,0,High Value Engaged
+C002465,0,High Value Engaged
+C002466,1,At Risk
+C002467,0,High Value Engaged
+C002468,0,High Value Engaged
+C002469,0,High Value Engaged
+C002470,0,High Value Engaged
+C002471,0,High Value Engaged
+C002472,2,Low Engagement
+C002473,0,High Value Engaged
+C002474,0,High Value Engaged
+C002475,0,High Value Engaged
+C002476,0,High Value Engaged
+C002477,0,High Value Engaged
+C002478,0,High Value Engaged
+C002479,2,Low Engagement
+C002480,1,At Risk
+C002481,0,High Value Engaged
+C002482,0,High Value Engaged
+C002483,0,High Value Engaged
+C002484,0,High Value Engaged
+C002485,0,High Value Engaged
+C002486,1,At Risk
+C002487,0,High Value Engaged
+C002488,2,Low Engagement
+C002489,0,High Value Engaged
+C002490,0,High Value Engaged
+C002491,2,Low Engagement
+C002492,0,High Value Engaged
+C002493,1,At Risk
+C002494,0,High Value Engaged
+C002495,0,High Value Engaged
+C002496,2,Low Engagement
+C002497,0,High Value Engaged
+C002498,0,High Value Engaged
+C002499,0,High Value Engaged
+C002500,3,Price Sensitive
+C002501,0,High Value Engaged
+C002502,2,Low Engagement
+C002503,0,High Value Engaged
+C002504,0,High Value Engaged
+C002505,0,High Value Engaged
+C002506,0,High Value Engaged
+C002507,2,Low Engagement
+C002508,0,High Value Engaged
+C002509,0,High Value Engaged
+C002510,0,High Value Engaged
+C002511,0,High Value Engaged
+C002512,0,High Value Engaged
+C002513,0,High Value Engaged
+C002514,3,Price Sensitive
+C002515,1,At Risk
+C002516,1,At Risk
+C002517,0,High Value Engaged
+C002518,1,At Risk
+C002519,0,High Value Engaged
+C002520,0,High Value Engaged
+C002521,1,At Risk
+C002522,0,High Value Engaged
+C002523,0,High Value Engaged
+C002524,0,High Value Engaged
+C002525,2,Low Engagement
+C002526,1,At Risk
+C002527,0,High Value Engaged
+C002528,1,At Risk
+C002529,1,At Risk
+C002530,0,High Value Engaged
+C002531,0,High Value Engaged
+C002532,2,Low Engagement
+C002533,2,Low Engagement
+C002534,0,High Value Engaged
+C002535,1,At Risk
+C002536,0,High Value Engaged
+C002537,1,At Risk
+C002538,1,At Risk
+C002539,0,High Value Engaged
+C002540,0,High Value Engaged
+C002541,0,High Value Engaged
+C002542,2,Low Engagement
+C002543,0,High Value Engaged
+C002544,0,High Value Engaged
+C002545,1,At Risk
+C002546,0,High Value Engaged
+C002547,0,High Value Engaged
+C002548,1,At Risk
+C002549,0,High Value Engaged
+C002550,0,High Value Engaged
+C002551,0,High Value Engaged
+C002552,0,High Value Engaged
+C002553,1,At Risk
+C002554,0,High Value Engaged
+C002555,1,At Risk
+C002556,0,High Value Engaged
+C002557,0,High Value Engaged
+C002558,1,At Risk
+C002559,0,High Value Engaged
+C002560,0,High Value Engaged
+C002561,0,High Value Engaged
+C002562,0,High Value Engaged
+C002563,1,At Risk
+C002564,0,High Value Engaged
+C002565,0,High Value Engaged
+C002566,0,High Value Engaged
+C002567,1,At Risk
+C002568,0,High Value Engaged
+C002569,0,High Value Engaged
+C002570,0,High Value Engaged
+C002571,0,High Value Engaged
+C002572,1,At Risk
+C002573,0,High Value Engaged
+C002574,1,At Risk
+C002575,1,At Risk
+C002576,0,High Value Engaged
+C002577,1,At Risk
+C002578,0,High Value Engaged
+C002579,1,At Risk
+C002580,1,At Risk
+C002581,0,High Value Engaged
+C002582,0,High Value Engaged
+C002583,2,Low Engagement
+C002584,0,High Value Engaged
+C002585,0,High Value Engaged
+C002586,2,Low Engagement
+C002587,1,At Risk
+C002588,0,High Value Engaged
+C002589,0,High Value Engaged
+C002590,0,High Value Engaged
+C002591,0,High Value Engaged
+C002592,0,High Value Engaged
+C002593,0,High Value Engaged
+C002594,0,High Value Engaged
+C002595,0,High Value Engaged
+C002596,0,High Value Engaged
+C002597,0,High Value Engaged
+C002598,0,High Value Engaged
+C002599,0,High Value Engaged
+C002600,0,High Value Engaged
+C002601,0,High Value Engaged
+C002602,0,High Value Engaged
+C002603,1,At Risk
+C002604,0,High Value Engaged
+C002605,1,At Risk
+C002606,0,High Value Engaged
+C002607,2,Low Engagement
+C002608,0,High Value Engaged
+C002609,0,High Value Engaged
+C002610,1,At Risk
+C002611,1,At Risk
+C002612,0,High Value Engaged
+C002613,0,High Value Engaged
+C002614,0,High Value Engaged
+C002615,0,High Value Engaged
+C002616,0,High Value Engaged
+C002617,1,At Risk
+C002618,0,High Value Engaged
+C002619,2,Low Engagement
+C002620,0,High Value Engaged
+C002621,1,At Risk
+C002622,3,Price Sensitive
+C002623,2,Low Engagement
+C002624,0,High Value Engaged
+C002625,0,High Value Engaged
+C002626,0,High Value Engaged
+C002627,0,High Value Engaged
+C002628,0,High Value Engaged
+C002629,0,High Value Engaged
+C002630,0,High Value Engaged
+C002631,0,High Value Engaged
+C002632,0,High Value Engaged
+C002633,0,High Value Engaged
+C002634,2,Low Engagement
+C002635,0,High Value Engaged
+C002636,3,Price Sensitive
+C002637,0,High Value Engaged
+C002638,0,High Value Engaged
+C002639,0,High Value Engaged
+C002640,0,High Value Engaged
+C002641,0,High Value Engaged
+C002642,1,At Risk
+C002643,0,High Value Engaged
+C002644,0,High Value Engaged
+C002645,1,At Risk
+C002646,0,High Value Engaged
+C002647,0,High Value Engaged
+C002648,2,Low Engagement
+C002649,0,High Value Engaged
+C002650,0,High Value Engaged
+C002651,0,High Value Engaged
+C002652,0,High Value Engaged
+C002653,0,High Value Engaged
+C002654,0,High Value Engaged
+C002655,1,At Risk
+C002656,1,At Risk
+C002657,2,Low Engagement
+C002658,0,High Value Engaged
+C002659,0,High Value Engaged
+C002660,0,High Value Engaged
+C002661,1,At Risk
+C002662,0,High Value Engaged
+C002663,1,At Risk
+C002664,0,High Value Engaged
+C002665,0,High Value Engaged
+C002666,3,Price Sensitive
+C002667,3,Price Sensitive
+C002668,1,At Risk
+C002669,2,Low Engagement
+C002670,1,At Risk
+C002671,2,Low Engagement
+C002672,0,High Value Engaged
+C002673,0,High Value Engaged
+C002674,0,High Value Engaged
+C002675,0,High Value Engaged
+C002676,0,High Value Engaged
+C002677,0,High Value Engaged
+C002678,0,High Value Engaged
+C002679,0,High Value Engaged
+C002680,2,Low Engagement
+C002681,0,High Value Engaged
+C002682,0,High Value Engaged
+C002683,0,High Value Engaged
+C002684,0,High Value Engaged
+C002685,0,High Value Engaged
+C002686,1,At Risk
+C002687,3,Price Sensitive
+C002688,0,High Value Engaged
+C002689,0,High Value Engaged
+C002690,0,High Value Engaged
+C002691,1,At Risk
+C002692,0,High Value Engaged
+C002693,0,High Value Engaged
+C002694,0,High Value Engaged
+C002695,0,High Value Engaged
+C002696,0,High Value Engaged
+C002697,1,At Risk
+C002698,0,High Value Engaged
+C002699,1,At Risk
+C002700,0,High Value Engaged
+C002701,0,High Value Engaged
+C002702,0,High Value Engaged
+C002703,1,At Risk
+C002704,1,At Risk
+C002705,0,High Value Engaged
+C002706,0,High Value Engaged
+C002707,0,High Value Engaged
+C002708,1,At Risk
+C002709,0,High Value Engaged
+C002710,0,High Value Engaged
+C002711,0,High Value Engaged
+C002712,0,High Value Engaged
+C002713,0,High Value Engaged
+C002714,2,Low Engagement
+C002715,0,High Value Engaged
+C002716,2,Low Engagement
+C002717,0,High Value Engaged
+C002718,0,High Value Engaged
+C002719,0,High Value Engaged
+C002720,1,At Risk
+C002721,1,At Risk
+C002722,1,At Risk
+C002723,3,Price Sensitive
+C002724,0,High Value Engaged
+C002725,3,Price Sensitive
+C002726,0,High Value Engaged
+C002727,0,High Value Engaged
+C002728,2,Low Engagement
+C002729,1,At Risk
+C002730,0,High Value Engaged
+C002731,1,At Risk
+C002732,0,High Value Engaged
+C002733,0,High Value Engaged
+C002734,2,Low Engagement
+C002735,2,Low Engagement
+C002736,0,High Value Engaged
+C002737,1,At Risk
+C002738,0,High Value Engaged
+C002739,0,High Value Engaged
+C002740,2,Low Engagement
+C002741,0,High Value Engaged
+C002742,0,High Value Engaged
+C002743,0,High Value Engaged
+C002744,0,High Value Engaged
+C002745,0,High Value Engaged
+C002746,0,High Value Engaged
+C002747,2,Low Engagement
+C002748,0,High Value Engaged
+C002749,1,At Risk
+C002750,0,High Value Engaged
+C002751,3,Price Sensitive
+C002752,0,High Value Engaged
+C002753,3,Price Sensitive
+C002754,0,High Value Engaged
+C002755,1,At Risk
+C002756,0,High Value Engaged
+C002757,0,High Value Engaged
+C002758,1,At Risk
+C002759,1,At Risk
+C002760,1,At Risk
+C002761,0,High Value Engaged
+C002762,0,High Value Engaged
+C002763,1,At Risk
+C002764,1,At Risk
+C002765,0,High Value Engaged
+C002766,1,At Risk
+C002767,2,Low Engagement
+C002768,1,At Risk
+C002769,2,Low Engagement
+C002770,0,High Value Engaged
+C002771,1,At Risk
+C002772,1,At Risk
+C002773,1,At Risk
+C002774,2,Low Engagement
+C002775,0,High Value Engaged
+C002776,2,Low Engagement
+C002777,1,At Risk
+C002778,0,High Value Engaged
+C002779,0,High Value Engaged
+C002780,0,High Value Engaged
+C002781,1,At Risk
+C002782,0,High Value Engaged
+C002783,1,At Risk
+C002784,0,High Value Engaged
+C002785,0,High Value Engaged
+C002786,0,High Value Engaged
+C002787,0,High Value Engaged
+C002788,0,High Value Engaged
+C002789,0,High Value Engaged
+C002790,0,High Value Engaged
+C002791,1,At Risk
+C002792,0,High Value Engaged
+C002793,0,High Value Engaged
+C002794,1,At Risk
+C002795,1,At Risk
+C002796,3,Price Sensitive
+C002797,0,High Value Engaged
+C002798,0,High Value Engaged
+C002799,0,High Value Engaged
+C002800,0,High Value Engaged
+C002801,1,At Risk
+C002802,0,High Value Engaged
+C002803,0,High Value Engaged
+C002804,0,High Value Engaged
+C002805,1,At Risk
+C002806,0,High Value Engaged
+C002807,1,At Risk
+C002808,0,High Value Engaged
+C002809,0,High Value Engaged
+C002810,0,High Value Engaged
+C002811,0,High Value Engaged
+C002812,0,High Value Engaged
+C002813,1,At Risk
+C002814,0,High Value Engaged
+C002815,0,High Value Engaged
+C002816,2,Low Engagement
+C002817,0,High Value Engaged
+C002818,0,High Value Engaged
+C002819,0,High Value Engaged
+C002820,0,High Value Engaged
+C002821,0,High Value Engaged
+C002822,2,Low Engagement
+C002823,1,At Risk
+C002824,1,At Risk
+C002825,0,High Value Engaged
+C002826,0,High Value Engaged
+C002827,0,High Value Engaged
+C002828,0,High Value Engaged
+C002829,0,High Value Engaged
+C002830,0,High Value Engaged
+C002831,2,Low Engagement
+C002832,1,At Risk
+C002833,0,High Value Engaged
+C002834,1,At Risk
+C002835,0,High Value Engaged
+C002836,0,High Value Engaged
+C002837,0,High Value Engaged
+C002838,3,Price Sensitive
+C002839,0,High Value Engaged
+C002840,0,High Value Engaged
+C002841,1,At Risk
+C002842,2,Low Engagement
+C002843,0,High Value Engaged
+C002844,2,Low Engagement
+C002845,0,High Value Engaged
+C002846,0,High Value Engaged
+C002847,1,At Risk
+C002848,0,High Value Engaged
+C002849,0,High Value Engaged
+C002850,0,High Value Engaged
+C002851,2,Low Engagement
+C002852,0,High Value Engaged
+C002853,0,High Value Engaged
+C002854,1,At Risk
+C002855,2,Low Engagement
+C002856,1,At Risk
+C002857,1,At Risk
+C002858,0,High Value Engaged
+C002859,1,At Risk
+C002860,0,High Value Engaged
+C002861,0,High Value Engaged
+C002862,2,Low Engagement
+C002863,0,High Value Engaged
+C002864,1,At Risk
+C002865,0,High Value Engaged
+C002866,0,High Value Engaged
+C002867,2,Low Engagement
+C002868,0,High Value Engaged
+C002869,1,At Risk
+C002870,0,High Value Engaged
+C002871,2,Low Engagement
+C002872,0,High Value Engaged
+C002873,0,High Value Engaged
+C002874,0,High Value Engaged
+C002875,0,High Value Engaged
+C002876,0,High Value Engaged
+C002877,2,Low Engagement
+C002878,2,Low Engagement
+C002879,2,Low Engagement
+C002880,1,At Risk
+C002881,0,High Value Engaged
+C002882,1,At Risk
+C002883,0,High Value Engaged
+C002884,0,High Value Engaged
+C002885,0,High Value Engaged
+C002886,1,At Risk
+C002887,1,At Risk
+C002888,0,High Value Engaged
+C002889,0,High Value Engaged
+C002890,0,High Value Engaged
+C002891,2,Low Engagement
+C002892,1,At Risk
+C002893,0,High Value Engaged
+C002894,0,High Value Engaged
+C002895,0,High Value Engaged
+C002896,0,High Value Engaged
+C002897,1,At Risk
+C002898,0,High Value Engaged
+C002899,1,At Risk
+C002900,0,High Value Engaged
+C002901,0,High Value Engaged
+C002902,0,High Value Engaged
+C002903,0,High Value Engaged
+C002904,0,High Value Engaged
+C002905,0,High Value Engaged
+C002906,0,High Value Engaged
+C002907,0,High Value Engaged
+C002908,1,At Risk
+C002909,0,High Value Engaged
+C002910,0,High Value Engaged
+C002911,0,High Value Engaged
+C002912,0,High Value Engaged
+C002913,1,At Risk
+C002914,2,Low Engagement
+C002915,1,At Risk
+C002916,0,High Value Engaged
+C002917,0,High Value Engaged
+C002918,0,High Value Engaged
+C002919,0,High Value Engaged
+C002920,3,Price Sensitive
+C002921,0,High Value Engaged
+C002922,0,High Value Engaged
+C002923,0,High Value Engaged
+C002924,0,High Value Engaged
+C002925,1,At Risk
+C002926,3,Price Sensitive
+C002927,0,High Value Engaged
+C002928,1,At Risk
+C002929,2,Low Engagement
+C002930,0,High Value Engaged
+C002931,0,High Value Engaged
+C002932,0,High Value Engaged
+C002933,0,High Value Engaged
+C002934,0,High Value Engaged
+C002935,0,High Value Engaged
+C002936,2,Low Engagement
+C002937,0,High Value Engaged
+C002938,2,Low Engagement
+C002939,1,At Risk
+C002940,0,High Value Engaged
+C002941,0,High Value Engaged
+C002942,0,High Value Engaged
+C002943,1,At Risk
+C002944,0,High Value Engaged
+C002945,0,High Value Engaged
+C002946,1,At Risk
+C002947,2,Low Engagement
+C002948,0,High Value Engaged
+C002949,3,Price Sensitive
+C002950,0,High Value Engaged
+C002951,1,At Risk
+C002952,1,At Risk
+C002953,0,High Value Engaged
+C002954,0,High Value Engaged
+C002955,0,High Value Engaged
+C002956,1,At Risk
+C002957,0,High Value Engaged
+C002958,1,At Risk
+C002959,0,High Value Engaged
+C002960,1,At Risk
+C002961,0,High Value Engaged
+C002962,0,High Value Engaged
+C002963,0,High Value Engaged
+C002964,0,High Value Engaged
+C002965,0,High Value Engaged
+C002966,0,High Value Engaged
+C002967,2,Low Engagement
+C002968,0,High Value Engaged
+C002969,0,High Value Engaged
+C002970,0,High Value Engaged
+C002971,0,High Value Engaged
+C002972,0,High Value Engaged
+C002973,1,At Risk
+C002974,0,High Value Engaged
+C002975,0,High Value Engaged
+C002976,0,High Value Engaged
+C002977,0,High Value Engaged
+C002978,0,High Value Engaged
+C002979,0,High Value Engaged
+C002980,0,High Value Engaged
+C002981,1,At Risk
+C002982,0,High Value Engaged
+C002983,2,Low Engagement
+C002984,0,High Value Engaged
+C002985,0,High Value Engaged
+C002986,0,High Value Engaged
+C002987,1,At Risk
+C002988,2,Low Engagement
+C002989,0,High Value Engaged
+C002990,0,High Value Engaged
+C002991,1,At Risk
+C002992,0,High Value Engaged
+C002993,0,High Value Engaged
+C002994,0,High Value Engaged
+C002995,1,At Risk
+C002996,0,High Value Engaged
+C002997,0,High Value Engaged
+C002998,0,High Value Engaged
+C002999,2,Low Engagement
+C003000,0,High Value Engaged
+C003001,0,High Value Engaged
+C003002,1,At Risk
+C003003,0,High Value Engaged
+C003004,2,Low Engagement
+C003005,0,High Value Engaged
+C003006,0,High Value Engaged
+C003007,0,High Value Engaged
+C003008,1,At Risk
+C003009,0,High Value Engaged
+C003010,0,High Value Engaged
+C003011,1,At Risk
+C003012,0,High Value Engaged
+C003013,1,At Risk
+C003014,2,Low Engagement
+C003015,1,At Risk
+C003016,1,At Risk
+C003017,0,High Value Engaged
+C003018,0,High Value Engaged
+C003019,1,At Risk
+C003020,2,Low Engagement
+C003021,0,High Value Engaged
+C003022,0,High Value Engaged
+C003023,0,High Value Engaged
+C003024,0,High Value Engaged
+C003025,0,High Value Engaged
+C003026,0,High Value Engaged
+C003027,0,High Value Engaged
+C003028,2,Low Engagement
+C003029,0,High Value Engaged
+C003030,0,High Value Engaged
+C003031,0,High Value Engaged
+C003032,2,Low Engagement
+C003033,0,High Value Engaged
+C003034,0,High Value Engaged
+C003035,2,Low Engagement
+C003036,0,High Value Engaged
+C003037,2,Low Engagement
+C003038,0,High Value Engaged
+C003039,0,High Value Engaged
+C003040,0,High Value Engaged
+C003041,0,High Value Engaged
+C003042,0,High Value Engaged
+C003043,0,High Value Engaged
+C003044,1,At Risk
+C003045,0,High Value Engaged
+C003046,0,High Value Engaged
+C003047,2,Low Engagement
+C003048,1,At Risk
+C003049,0,High Value Engaged
+C003050,2,Low Engagement
+C003051,1,At Risk
+C003052,0,High Value Engaged
+C003053,0,High Value Engaged
+C003054,0,High Value Engaged
+C003055,0,High Value Engaged
+C003056,0,High Value Engaged
+C003057,0,High Value Engaged
+C003058,0,High Value Engaged
+C003059,1,At Risk
+C003060,1,At Risk
+C003061,0,High Value Engaged
+C003062,0,High Value Engaged
+C003063,0,High Value Engaged
+C003064,0,High Value Engaged
+C003065,0,High Value Engaged
+C003066,1,At Risk
+C003067,2,Low Engagement
+C003068,2,Low Engagement
+C003069,0,High Value Engaged
+C003070,0,High Value Engaged
+C003071,0,High Value Engaged
+C003072,0,High Value Engaged
+C003073,0,High Value Engaged
+C003074,1,At Risk
+C003075,0,High Value Engaged
+C003076,0,High Value Engaged
+C003077,0,High Value Engaged
+C003078,1,At Risk
+C003079,0,High Value Engaged
+C003080,0,High Value Engaged
+C003081,0,High Value Engaged
+C003082,0,High Value Engaged
+C003083,1,At Risk
+C003084,0,High Value Engaged
+C003085,0,High Value Engaged
+C003086,0,High Value Engaged
+C003087,0,High Value Engaged
+C003088,0,High Value Engaged
+C003089,0,High Value Engaged
+C003090,1,At Risk
+C003091,1,At Risk
+C003092,0,High Value Engaged
+C003093,2,Low Engagement
+C003094,0,High Value Engaged
+C003095,0,High Value Engaged
+C003096,0,High Value Engaged
+C003097,1,At Risk
+C003098,0,High Value Engaged
+C003099,1,At Risk
+C003100,0,High Value Engaged
+C003101,1,At Risk
+C003102,0,High Value Engaged
+C003103,0,High Value Engaged
+C003104,1,At Risk
+C003105,1,At Risk
+C003106,0,High Value Engaged
+C003107,0,High Value Engaged
+C003108,0,High Value Engaged
+C003109,1,At Risk
+C003110,0,High Value Engaged
+C003111,0,High Value Engaged
+C003112,2,Low Engagement
+C003113,0,High Value Engaged
+C003114,0,High Value Engaged
+C003115,0,High Value Engaged
+C003116,0,High Value Engaged
+C003117,0,High Value Engaged
+C003118,0,High Value Engaged
+C003119,0,High Value Engaged
+C003120,0,High Value Engaged
+C003121,2,Low Engagement
+C003122,0,High Value Engaged
+C003123,0,High Value Engaged
+C003124,0,High Value Engaged
+C003125,3,Price Sensitive
+C003126,0,High Value Engaged
+C003127,2,Low Engagement
+C003128,1,At Risk
+C003129,0,High Value Engaged
+C003130,1,At Risk
+C003131,1,At Risk
+C003132,0,High Value Engaged
+C003133,0,High Value Engaged
+C003134,1,At Risk
+C003135,0,High Value Engaged
+C003136,0,High Value Engaged
+C003137,2,Low Engagement
+C003138,0,High Value Engaged
+C003139,3,Price Sensitive
+C003140,0,High Value Engaged
+C003141,0,High Value Engaged
+C003142,0,High Value Engaged
+C003143,1,At Risk
+C003144,3,Price Sensitive
+C003145,0,High Value Engaged
+C003146,0,High Value Engaged
+C003147,0,High Value Engaged
+C003148,2,Low Engagement
+C003149,1,At Risk
+C003150,0,High Value Engaged
+C003151,0,High Value Engaged
+C003152,0,High Value Engaged
+C003153,0,High Value Engaged
+C003154,1,At Risk
+C003155,2,Low Engagement
+C003156,0,High Value Engaged
+C003157,1,At Risk
+C003158,0,High Value Engaged
+C003159,0,High Value Engaged
+C003160,1,At Risk
+C003161,2,Low Engagement
+C003162,0,High Value Engaged
+C003163,0,High Value Engaged
+C003164,0,High Value Engaged
+C003165,1,At Risk
+C003166,2,Low Engagement
+C003167,0,High Value Engaged
+C003168,0,High Value Engaged
+C003169,0,High Value Engaged
+C003170,0,High Value Engaged
+C003171,0,High Value Engaged
+C003172,2,Low Engagement
+C003173,0,High Value Engaged
+C003174,1,At Risk
+C003175,2,Low Engagement
+C003176,0,High Value Engaged
+C003177,0,High Value Engaged
+C003178,0,High Value Engaged
+C003179,0,High Value Engaged
+C003180,0,High Value Engaged
+C003181,2,Low Engagement
+C003182,0,High Value Engaged
+C003183,0,High Value Engaged
+C003184,1,At Risk
+C003185,0,High Value Engaged
+C003186,0,High Value Engaged
+C003187,0,High Value Engaged
+C003188,1,At Risk
+C003189,0,High Value Engaged
+C003190,0,High Value Engaged
+C003191,1,At Risk
+C003192,1,At Risk
+C003193,2,Low Engagement
+C003194,0,High Value Engaged
+C003195,0,High Value Engaged
+C003196,0,High Value Engaged
+C003197,0,High Value Engaged
+C003198,0,High Value Engaged
+C003199,0,High Value Engaged
+C003200,0,High Value Engaged
+C003201,0,High Value Engaged
+C003202,0,High Value Engaged
+C003203,0,High Value Engaged
+C003204,1,At Risk
+C003205,2,Low Engagement
+C003206,0,High Value Engaged
+C003207,0,High Value Engaged
+C003208,0,High Value Engaged
+C003209,0,High Value Engaged
+C003210,0,High Value Engaged
+C003211,0,High Value Engaged
+C003212,0,High Value Engaged
+C003213,0,High Value Engaged
+C003214,0,High Value Engaged
+C003215,0,High Value Engaged
+C003216,0,High Value Engaged
+C003217,0,High Value Engaged
+C003218,0,High Value Engaged
+C003219,0,High Value Engaged
+C003220,0,High Value Engaged
+C003221,0,High Value Engaged
+C003222,0,High Value Engaged
+C003223,0,High Value Engaged
+C003224,0,High Value Engaged
+C003225,0,High Value Engaged
+C003226,0,High Value Engaged
+C003227,0,High Value Engaged
+C003228,1,At Risk
+C003229,0,High Value Engaged
+C003230,0,High Value Engaged
+C003231,0,High Value Engaged
+C003232,1,At Risk
+C003233,0,High Value Engaged
+C003234,0,High Value Engaged
+C003235,0,High Value Engaged
+C003236,0,High Value Engaged
+C003237,0,High Value Engaged
+C003238,2,Low Engagement
+C003239,0,High Value Engaged
+C003240,0,High Value Engaged
+C003241,1,At Risk
+C003242,1,At Risk
+C003243,1,At Risk
+C003244,0,High Value Engaged
+C003245,0,High Value Engaged
+C003246,0,High Value Engaged
+C003247,0,High Value Engaged
+C003248,0,High Value Engaged
+C003249,0,High Value Engaged
+C003250,0,High Value Engaged
+C003251,0,High Value Engaged
+C003252,1,At Risk
+C003253,0,High Value Engaged
+C003254,0,High Value Engaged
+C003255,0,High Value Engaged
+C003256,3,Price Sensitive
+C003257,0,High Value Engaged
+C003258,0,High Value Engaged
+C003259,2,Low Engagement
+C003260,0,High Value Engaged
+C003261,1,At Risk
+C003262,0,High Value Engaged
+C003263,3,Price Sensitive
+C003264,0,High Value Engaged
+C003265,0,High Value Engaged
+C003266,0,High Value Engaged
+C003267,0,High Value Engaged
+C003268,2,Low Engagement
+C003269,0,High Value Engaged
+C003270,2,Low Engagement
+C003271,0,High Value Engaged
+C003272,0,High Value Engaged
+C003273,2,Low Engagement
+C003274,0,High Value Engaged
+C003275,1,At Risk
+C003276,2,Low Engagement
+C003277,1,At Risk
+C003278,3,Price Sensitive
+C003279,0,High Value Engaged
+C003280,1,At Risk
+C003281,0,High Value Engaged
+C003282,0,High Value Engaged
+C003283,0,High Value Engaged
+C003284,0,High Value Engaged
+C003285,3,Price Sensitive
+C003286,0,High Value Engaged
+C003287,0,High Value Engaged
+C003288,0,High Value Engaged
+C003289,1,At Risk
+C003290,0,High Value Engaged
+C003291,0,High Value Engaged
+C003292,1,At Risk
+C003293,0,High Value Engaged
+C003294,0,High Value Engaged
+C003295,0,High Value Engaged
+C003296,0,High Value Engaged
+C003297,0,High Value Engaged
+C003298,0,High Value Engaged
+C003299,0,High Value Engaged
+C003300,2,Low Engagement
+C003301,0,High Value Engaged
+C003302,2,Low Engagement
+C003303,0,High Value Engaged
+C003304,1,At Risk
+C003305,1,At Risk
+C003306,0,High Value Engaged
+C003307,0,High Value Engaged
+C003308,0,High Value Engaged
+C003309,2,Low Engagement
+C003310,0,High Value Engaged
+C003311,1,At Risk
+C003312,1,At Risk
+C003313,0,High Value Engaged
+C003314,0,High Value Engaged
+C003315,1,At Risk
+C003316,0,High Value Engaged
+C003317,0,High Value Engaged
+C003318,2,Low Engagement
+C003319,0,High Value Engaged
+C003320,0,High Value Engaged
+C003321,0,High Value Engaged
+C003322,1,At Risk
+C003323,2,Low Engagement
+C003324,2,Low Engagement
+C003325,1,At Risk
+C003326,2,Low Engagement
+C003327,3,Price Sensitive
+C003328,0,High Value Engaged
+C003329,0,High Value Engaged
+C003330,1,At Risk
+C003331,0,High Value Engaged
+C003332,0,High Value Engaged
+C003333,0,High Value Engaged
+C003334,2,Low Engagement
+C003335,0,High Value Engaged
+C003336,1,At Risk
+C003337,0,High Value Engaged
+C003338,0,High Value Engaged
+C003339,0,High Value Engaged
+C003340,0,High Value Engaged
+C003341,2,Low Engagement
+C003342,0,High Value Engaged
+C003343,1,At Risk
+C003344,0,High Value Engaged
+C003345,0,High Value Engaged
+C003346,0,High Value Engaged
+C003347,1,At Risk
+C003348,1,At Risk
+C003349,1,At Risk
+C003350,0,High Value Engaged
+C003351,0,High Value Engaged
+C003352,0,High Value Engaged
+C003353,0,High Value Engaged
+C003354,2,Low Engagement
+C003355,0,High Value Engaged
+C003356,0,High Value Engaged
+C003357,1,At Risk
+C003358,1,At Risk
+C003359,1,At Risk
+C003360,0,High Value Engaged
+C003361,1,At Risk
+C003362,0,High Value Engaged
+C003363,1,At Risk
+C003364,0,High Value Engaged
+C003365,0,High Value Engaged
+C003366,0,High Value Engaged
+C003367,0,High Value Engaged
+C003368,0,High Value Engaged
+C003369,0,High Value Engaged
+C003370,0,High Value Engaged
+C003371,0,High Value Engaged
+C003372,2,Low Engagement
+C003373,0,High Value Engaged
+C003374,0,High Value Engaged
+C003375,1,At Risk
+C003376,2,Low Engagement
+C003377,0,High Value Engaged
+C003378,0,High Value Engaged
+C003379,1,At Risk
+C003380,0,High Value Engaged
+C003381,0,High Value Engaged
+C003382,1,At Risk
+C003383,3,Price Sensitive
+C003384,0,High Value Engaged
+C003385,2,Low Engagement
+C003386,1,At Risk
+C003387,0,High Value Engaged
+C003388,0,High Value Engaged
+C003389,0,High Value Engaged
+C003390,0,High Value Engaged
+C003391,0,High Value Engaged
+C003392,1,At Risk
+C003393,1,At Risk
+C003394,2,Low Engagement
+C003395,1,At Risk
+C003396,0,High Value Engaged
+C003397,0,High Value Engaged
+C003398,0,High Value Engaged
+C003399,0,High Value Engaged
+C003400,2,Low Engagement
+C003401,1,At Risk
+C003402,0,High Value Engaged
+C003403,0,High Value Engaged
+C003404,0,High Value Engaged
+C003405,0,High Value Engaged
+C003406,0,High Value Engaged
+C003407,0,High Value Engaged
+C003408,0,High Value Engaged
+C003409,2,Low Engagement
+C003410,0,High Value Engaged
+C003411,0,High Value Engaged
+C003412,0,High Value Engaged
+C003413,0,High Value Engaged
+C003414,0,High Value Engaged
+C003415,0,High Value Engaged
+C003416,0,High Value Engaged
+C003417,0,High Value Engaged
+C003418,0,High Value Engaged
+C003419,2,Low Engagement
+C003420,0,High Value Engaged
+C003421,0,High Value Engaged
+C003422,0,High Value Engaged
+C003423,0,High Value Engaged
+C003424,1,At Risk
+C003425,0,High Value Engaged
+C003426,0,High Value Engaged
+C003427,0,High Value Engaged
+C003428,2,Low Engagement
+C003429,0,High Value Engaged
+C003430,1,At Risk
+C003431,0,High Value Engaged
+C003432,0,High Value Engaged
+C003433,2,Low Engagement
+C003434,0,High Value Engaged
+C003435,2,Low Engagement
+C003436,0,High Value Engaged
+C003437,0,High Value Engaged
+C003438,2,Low Engagement
+C003439,1,At Risk
+C003440,0,High Value Engaged
+C003441,3,Price Sensitive
+C003442,1,At Risk
+C003443,0,High Value Engaged
+C003444,3,Price Sensitive
+C003445,2,Low Engagement
+C003446,1,At Risk
+C003447,1,At Risk
+C003448,0,High Value Engaged
+C003449,0,High Value Engaged
+C003450,0,High Value Engaged
+C003451,0,High Value Engaged
+C003452,1,At Risk
+C003453,1,At Risk
+C003454,1,At Risk
+C003455,0,High Value Engaged
+C003456,0,High Value Engaged
+C003457,1,At Risk
+C003458,0,High Value Engaged
+C003459,3,Price Sensitive
+C003460,3,Price Sensitive
+C003461,0,High Value Engaged
+C003462,0,High Value Engaged
+C003463,2,Low Engagement
+C003464,1,At Risk
+C003465,2,Low Engagement
+C003466,1,At Risk
+C003467,2,Low Engagement
+C003468,0,High Value Engaged
+C003469,0,High Value Engaged
+C003470,0,High Value Engaged
+C003471,0,High Value Engaged
+C003472,0,High Value Engaged
+C003473,1,At Risk
+C003474,0,High Value Engaged
+C003475,0,High Value Engaged
+C003476,0,High Value Engaged
+C003477,1,At Risk
+C003478,0,High Value Engaged
+C003479,0,High Value Engaged
+C003480,0,High Value Engaged
+C003481,1,At Risk
+C003482,1,At Risk
+C003483,2,Low Engagement
+C003484,2,Low Engagement
+C003485,1,At Risk
+C003486,0,High Value Engaged
+C003487,0,High Value Engaged
+C003488,0,High Value Engaged
+C003489,1,At Risk
+C003490,1,At Risk
+C003491,0,High Value Engaged
+C003492,0,High Value Engaged
+C003493,0,High Value Engaged
+C003494,0,High Value Engaged
+C003495,0,High Value Engaged
+C003496,3,Price Sensitive
+C003497,0,High Value Engaged
+C003498,2,Low Engagement
+C003499,0,High Value Engaged
+C003500,0,High Value Engaged
+C003501,1,At Risk
+C003502,0,High Value Engaged
+C003503,0,High Value Engaged
+C003504,3,Price Sensitive
+C003505,0,High Value Engaged
+C003506,2,Low Engagement
+C003507,0,High Value Engaged
+C003508,0,High Value Engaged
+C003509,2,Low Engagement
+C003510,0,High Value Engaged
+C003511,0,High Value Engaged
+C003512,1,At Risk
+C003513,0,High Value Engaged
+C003514,0,High Value Engaged
+C003515,0,High Value Engaged
+C003516,1,At Risk
+C003517,1,At Risk
+C003518,1,At Risk
+C003519,1,At Risk
+C003520,0,High Value Engaged
+C003521,0,High Value Engaged
+C003522,2,Low Engagement
+C003523,1,At Risk
+C003524,2,Low Engagement
+C003525,0,High Value Engaged
+C003526,0,High Value Engaged
+C003527,0,High Value Engaged
+C003528,1,At Risk
+C003529,0,High Value Engaged
+C003530,0,High Value Engaged
+C003531,0,High Value Engaged
+C003532,0,High Value Engaged
+C003533,0,High Value Engaged
+C003534,0,High Value Engaged
+C003535,1,At Risk
+C003536,1,At Risk
+C003537,0,High Value Engaged
+C003538,2,Low Engagement
+C003539,0,High Value Engaged
+C003540,0,High Value Engaged
+C003541,0,High Value Engaged
+C003542,0,High Value Engaged
+C003543,1,At Risk
+C003544,0,High Value Engaged
+C003545,0,High Value Engaged
+C003546,1,At Risk
+C003547,2,Low Engagement
+C003548,0,High Value Engaged
+C003549,0,High Value Engaged
+C003550,1,At Risk
+C003551,0,High Value Engaged
+C003552,0,High Value Engaged
+C003553,0,High Value Engaged
+C003554,1,At Risk
+C003555,0,High Value Engaged
+C003556,0,High Value Engaged
+C003557,2,Low Engagement
+C003558,1,At Risk
+C003559,0,High Value Engaged
+C003560,0,High Value Engaged
+C003561,1,At Risk
+C003562,0,High Value Engaged
+C003563,2,Low Engagement
+C003564,0,High Value Engaged
+C003565,0,High Value Engaged
+C003566,1,At Risk
+C003567,0,High Value Engaged
+C003568,2,Low Engagement
+C003569,2,Low Engagement
+C003570,0,High Value Engaged
+C003571,0,High Value Engaged
+C003572,2,Low Engagement
+C003573,0,High Value Engaged
+C003574,0,High Value Engaged
+C003575,3,Price Sensitive
+C003576,0,High Value Engaged
+C003577,0,High Value Engaged
+C003578,0,High Value Engaged
+C003579,1,At Risk
+C003580,2,Low Engagement
+C003581,0,High Value Engaged
+C003582,2,Low Engagement
+C003583,1,At Risk
+C003584,0,High Value Engaged
+C003585,0,High Value Engaged
+C003586,0,High Value Engaged
+C003587,0,High Value Engaged
+C003588,0,High Value Engaged
+C003589,0,High Value Engaged
+C003590,0,High Value Engaged
+C003591,0,High Value Engaged
+C003592,0,High Value Engaged
+C003593,0,High Value Engaged
+C003594,0,High Value Engaged
+C003595,1,At Risk
+C003596,2,Low Engagement
+C003597,0,High Value Engaged
+C003598,1,At Risk
+C003599,0,High Value Engaged
+C003600,1,At Risk
+C003601,0,High Value Engaged
+C003602,1,At Risk
+C003603,0,High Value Engaged
+C003604,1,At Risk
+C003605,0,High Value Engaged
+C003606,1,At Risk
+C003607,2,Low Engagement
+C003608,0,High Value Engaged
+C003609,1,At Risk
+C003610,2,Low Engagement
+C003611,0,High Value Engaged
+C003612,0,High Value Engaged
+C003613,1,At Risk
+C003614,2,Low Engagement
+C003615,0,High Value Engaged
+C003616,0,High Value Engaged
+C003617,0,High Value Engaged
+C003618,0,High Value Engaged
+C003619,1,At Risk
+C003620,0,High Value Engaged
+C003621,1,At Risk
+C003622,0,High Value Engaged
+C003623,0,High Value Engaged
+C003624,0,High Value Engaged
+C003625,2,Low Engagement
+C003626,0,High Value Engaged
+C003627,0,High Value Engaged
+C003628,0,High Value Engaged
+C003629,0,High Value Engaged
+C003630,0,High Value Engaged
+C003631,0,High Value Engaged
+C003632,0,High Value Engaged
+C003633,1,At Risk
+C003634,1,At Risk
+C003635,0,High Value Engaged
+C003636,0,High Value Engaged
+C003637,0,High Value Engaged
+C003638,1,At Risk
+C003639,0,High Value Engaged
+C003640,0,High Value Engaged
+C003641,0,High Value Engaged
+C003642,0,High Value Engaged
+C003643,0,High Value Engaged
+C003644,2,Low Engagement
+C003645,2,Low Engagement
+C003646,1,At Risk
+C003647,0,High Value Engaged
+C003648,1,At Risk
+C003649,0,High Value Engaged
+C003650,1,At Risk
+C003651,1,At Risk
+C003652,0,High Value Engaged
+C003653,1,At Risk
+C003654,0,High Value Engaged
+C003655,0,High Value Engaged
+C003656,1,At Risk
+C003657,0,High Value Engaged
+C003658,0,High Value Engaged
+C003659,0,High Value Engaged
+C003660,1,At Risk
+C003661,2,Low Engagement
+C003662,0,High Value Engaged
+C003663,3,Price Sensitive
+C003664,0,High Value Engaged
+C003665,0,High Value Engaged
+C003666,1,At Risk
+C003667,0,High Value Engaged
+C003668,0,High Value Engaged
+C003669,0,High Value Engaged
+C003670,0,High Value Engaged
+C003671,0,High Value Engaged
+C003672,0,High Value Engaged
+C003673,2,Low Engagement
+C003674,1,At Risk
+C003675,1,At Risk
+C003676,0,High Value Engaged
+C003677,0,High Value Engaged
+C003678,0,High Value Engaged
+C003679,0,High Value Engaged
+C003680,2,Low Engagement
+C003681,0,High Value Engaged
+C003682,0,High Value Engaged
+C003683,2,Low Engagement
+C003684,0,High Value Engaged
+C003685,1,At Risk
+C003686,0,High Value Engaged
+C003687,0,High Value Engaged
+C003688,0,High Value Engaged
+C003689,0,High Value Engaged
+C003690,0,High Value Engaged
+C003691,0,High Value Engaged
+C003692,0,High Value Engaged
+C003693,0,High Value Engaged
+C003694,0,High Value Engaged
+C003695,0,High Value Engaged
+C003696,0,High Value Engaged
+C003697,0,High Value Engaged
+C003698,0,High Value Engaged
+C003699,0,High Value Engaged
+C003700,0,High Value Engaged
+C003701,0,High Value Engaged
+C003702,0,High Value Engaged
+C003703,2,Low Engagement
+C003704,2,Low Engagement
+C003705,0,High Value Engaged
+C003706,0,High Value Engaged
+C003707,1,At Risk
+C003708,0,High Value Engaged
+C003709,0,High Value Engaged
+C003710,0,High Value Engaged
+C003711,1,At Risk
+C003712,0,High Value Engaged
+C003713,1,At Risk
+C003714,0,High Value Engaged
+C003715,0,High Value Engaged
+C003716,0,High Value Engaged
+C003717,1,At Risk
+C003718,0,High Value Engaged
+C003719,0,High Value Engaged
+C003720,1,At Risk
+C003721,0,High Value Engaged
+C003722,0,High Value Engaged
+C003723,0,High Value Engaged
+C003724,0,High Value Engaged
+C003725,0,High Value Engaged
+C003726,0,High Value Engaged
+C003727,0,High Value Engaged
+C003728,3,Price Sensitive
+C003729,0,High Value Engaged
+C003730,0,High Value Engaged
+C003731,1,At Risk
+C003732,0,High Value Engaged
+C003733,0,High Value Engaged
+C003734,2,Low Engagement
+C003735,2,Low Engagement
+C003736,0,High Value Engaged
+C003737,0,High Value Engaged
+C003738,0,High Value Engaged
+C003739,0,High Value Engaged
+C003740,0,High Value Engaged
+C003741,0,High Value Engaged
+C003742,0,High Value Engaged
+C003743,1,At Risk
+C003744,0,High Value Engaged
+C003745,1,At Risk
+C003746,3,Price Sensitive
+C003747,3,Price Sensitive
+C003748,0,High Value Engaged
+C003749,0,High Value Engaged
+C003750,0,High Value Engaged
+C003751,1,At Risk
+C003752,0,High Value Engaged
+C003753,0,High Value Engaged
+C003754,0,High Value Engaged
+C003755,0,High Value Engaged
+C003756,0,High Value Engaged
+C003757,0,High Value Engaged
+C003758,0,High Value Engaged
+C003759,1,At Risk
+C003760,0,High Value Engaged
+C003761,0,High Value Engaged
+C003762,0,High Value Engaged
+C003763,0,High Value Engaged
+C003764,0,High Value Engaged
+C003765,2,Low Engagement
+C003766,0,High Value Engaged
+C003767,0,High Value Engaged
+C003768,0,High Value Engaged
+C003769,0,High Value Engaged
+C003770,0,High Value Engaged
+C003771,0,High Value Engaged
+C003772,0,High Value Engaged
+C003773,0,High Value Engaged
+C003774,0,High Value Engaged
+C003775,0,High Value Engaged
+C003776,0,High Value Engaged
+C003777,0,High Value Engaged
+C003778,1,At Risk
+C003779,0,High Value Engaged
+C003780,0,High Value Engaged
+C003781,0,High Value Engaged
+C003782,1,At Risk
+C003783,0,High Value Engaged
+C003784,2,Low Engagement
+C003785,0,High Value Engaged
+C003786,0,High Value Engaged
+C003787,1,At Risk
+C003788,3,Price Sensitive
+C003789,0,High Value Engaged
+C003790,0,High Value Engaged
+C003791,0,High Value Engaged
+C003792,0,High Value Engaged
+C003793,2,Low Engagement
+C003794,0,High Value Engaged
+C003795,1,At Risk
+C003796,0,High Value Engaged
+C003797,0,High Value Engaged
+C003798,0,High Value Engaged
+C003799,1,At Risk
+C003800,0,High Value Engaged
+C003801,0,High Value Engaged
+C003802,0,High Value Engaged
+C003803,0,High Value Engaged
+C003804,0,High Value Engaged
+C003805,0,High Value Engaged
+C003806,3,Price Sensitive
+C003807,2,Low Engagement
+C003808,0,High Value Engaged
+C003809,0,High Value Engaged
+C003810,0,High Value Engaged
+C003811,0,High Value Engaged
+C003812,1,At Risk
+C003813,0,High Value Engaged
+C003814,0,High Value Engaged
+C003815,1,At Risk
+C003816,1,At Risk
+C003817,2,Low Engagement
+C003818,1,At Risk
+C003819,2,Low Engagement
+C003820,1,At Risk
+C003821,0,High Value Engaged
+C003822,0,High Value Engaged
+C003823,0,High Value Engaged
+C003824,3,Price Sensitive
+C003825,1,At Risk
+C003826,0,High Value Engaged
+C003827,0,High Value Engaged
+C003828,0,High Value Engaged
+C003829,0,High Value Engaged
+C003830,1,At Risk
+C003831,0,High Value Engaged
+C003832,0,High Value Engaged
+C003833,0,High Value Engaged
+C003834,1,At Risk
+C003835,0,High Value Engaged
+C003836,0,High Value Engaged
+C003837,3,Price Sensitive
+C003838,1,At Risk
+C003839,0,High Value Engaged
+C003840,3,Price Sensitive
+C003841,1,At Risk
+C003842,0,High Value Engaged
+C003843,0,High Value Engaged
+C003844,0,High Value Engaged
+C003845,0,High Value Engaged
+C003846,1,At Risk
+C003847,0,High Value Engaged
+C003848,0,High Value Engaged
+C003849,2,Low Engagement
+C003850,0,High Value Engaged
+C003851,0,High Value Engaged
+C003852,2,Low Engagement
+C003853,0,High Value Engaged
+C003854,0,High Value Engaged
+C003855,0,High Value Engaged
+C003856,2,Low Engagement
+C003857,0,High Value Engaged
+C003858,0,High Value Engaged
+C003859,0,High Value Engaged
+C003860,0,High Value Engaged
+C003861,0,High Value Engaged
+C003862,1,At Risk
+C003863,0,High Value Engaged
+C003864,2,Low Engagement
+C003865,0,High Value Engaged
+C003866,3,Price Sensitive
+C003867,0,High Value Engaged
+C003868,2,Low Engagement
+C003869,0,High Value Engaged
+C003870,0,High Value Engaged
+C003871,1,At Risk
+C003872,1,At Risk
+C003873,2,Low Engagement
+C003874,2,Low Engagement
+C003875,0,High Value Engaged
+C003876,0,High Value Engaged
+C003877,2,Low Engagement
+C003878,2,Low Engagement
+C003879,1,At Risk
+C003880,0,High Value Engaged
+C003881,0,High Value Engaged
+C003882,0,High Value Engaged
+C003883,0,High Value Engaged
+C003884,1,At Risk
+C003885,0,High Value Engaged
+C003886,1,At Risk
+C003887,0,High Value Engaged
+C003888,1,At Risk
+C003889,0,High Value Engaged
+C003890,0,High Value Engaged
+C003891,0,High Value Engaged
+C003892,2,Low Engagement
+C003893,0,High Value Engaged
+C003894,0,High Value Engaged
+C003895,0,High Value Engaged
+C003896,0,High Value Engaged
+C003897,2,Low Engagement
+C003898,0,High Value Engaged
+C003899,0,High Value Engaged
+C003900,0,High Value Engaged
+C003901,0,High Value Engaged
+C003902,0,High Value Engaged
+C003903,0,High Value Engaged
+C003904,0,High Value Engaged
+C003905,2,Low Engagement
+C003906,1,At Risk
+C003907,0,High Value Engaged
+C003908,0,High Value Engaged
+C003909,1,At Risk
+C003910,2,Low Engagement
+C003911,1,At Risk
+C003912,2,Low Engagement
+C003913,2,Low Engagement
+C003914,1,At Risk
+C003915,2,Low Engagement
+C003916,0,High Value Engaged
+C003917,0,High Value Engaged
+C003918,3,Price Sensitive
+C003919,0,High Value Engaged
+C003920,0,High Value Engaged
+C003921,0,High Value Engaged
+C003922,1,At Risk
+C003923,2,Low Engagement
+C003924,0,High Value Engaged
+C003925,0,High Value Engaged
+C003926,0,High Value Engaged
+C003927,0,High Value Engaged
+C003928,0,High Value Engaged
+C003929,2,Low Engagement
+C003930,0,High Value Engaged
+C003931,2,Low Engagement
+C003932,2,Low Engagement
+C003933,0,High Value Engaged
+C003934,0,High Value Engaged
+C003935,3,Price Sensitive
+C003936,0,High Value Engaged
+C003937,0,High Value Engaged
+C003938,0,High Value Engaged
+C003939,0,High Value Engaged
+C003940,0,High Value Engaged
+C003941,1,At Risk
+C003942,0,High Value Engaged
+C003943,0,High Value Engaged
+C003944,0,High Value Engaged
+C003945,1,At Risk
+C003946,3,Price Sensitive
+C003947,0,High Value Engaged
+C003948,2,Low Engagement
+C003949,0,High Value Engaged
+C003950,0,High Value Engaged
+C003951,0,High Value Engaged
+C003952,0,High Value Engaged
+C003953,2,Low Engagement
+C003954,0,High Value Engaged
+C003955,1,At Risk
+C003956,1,At Risk
+C003957,1,At Risk
+C003958,1,At Risk
+C003959,0,High Value Engaged
+C003960,0,High Value Engaged
+C003961,1,At Risk
+C003962,3,Price Sensitive
+C003963,0,High Value Engaged
+C003964,2,Low Engagement
+C003965,1,At Risk
+C003966,0,High Value Engaged
+C003967,0,High Value Engaged
+C003968,1,At Risk
+C003969,0,High Value Engaged
+C003970,0,High Value Engaged
+C003971,0,High Value Engaged
+C003972,1,At Risk
+C003973,0,High Value Engaged
+C003974,0,High Value Engaged
+C003975,0,High Value Engaged
+C003976,1,At Risk
+C003977,2,Low Engagement
+C003978,0,High Value Engaged
+C003979,2,Low Engagement
+C003980,1,At Risk
+C003981,0,High Value Engaged
+C003982,2,Low Engagement
+C003983,1,At Risk
+C003984,0,High Value Engaged
+C003985,2,Low Engagement
+C003986,0,High Value Engaged
+C003987,0,High Value Engaged
+C003988,1,At Risk
+C003989,2,Low Engagement
+C003990,2,Low Engagement
+C003991,0,High Value Engaged
+C003992,1,At Risk
+C003993,0,High Value Engaged
+C003994,0,High Value Engaged
+C003995,2,Low Engagement
+C003996,0,High Value Engaged
+C003997,3,Price Sensitive
+C003998,2,Low Engagement
+C003999,2,Low Engagement
+C004000,0,High Value Engaged
+C004001,1,At Risk
+C004002,1,At Risk
+C004003,0,High Value Engaged
+C004004,1,At Risk
+C004005,1,At Risk
+C004006,0,High Value Engaged
+C004007,0,High Value Engaged
+C004008,0,High Value Engaged
+C004009,1,At Risk
+C004010,0,High Value Engaged
+C004011,0,High Value Engaged
+C004012,2,Low Engagement
+C004013,0,High Value Engaged
+C004014,1,At Risk
+C004015,2,Low Engagement
+C004016,0,High Value Engaged
+C004017,0,High Value Engaged
+C004018,1,At Risk
+C004019,0,High Value Engaged
+C004020,2,Low Engagement
+C004021,0,High Value Engaged
+C004022,0,High Value Engaged
+C004023,0,High Value Engaged
+C004024,0,High Value Engaged
+C004025,0,High Value Engaged
+C004026,0,High Value Engaged
+C004027,1,At Risk
+C004028,1,At Risk
+C004029,0,High Value Engaged
+C004030,0,High Value Engaged
+C004031,0,High Value Engaged
+C004032,0,High Value Engaged
+C004033,0,High Value Engaged
+C004034,0,High Value Engaged
+C004035,1,At Risk
+C004036,1,At Risk
+C004037,1,At Risk
+C004038,1,At Risk
+C004039,0,High Value Engaged
+C004040,1,At Risk
+C004041,1,At Risk
+C004042,0,High Value Engaged
+C004043,0,High Value Engaged
+C004044,1,At Risk
+C004045,0,High Value Engaged
+C004046,1,At Risk
+C004047,2,Low Engagement
+C004048,1,At Risk
+C004049,0,High Value Engaged
+C004050,0,High Value Engaged
+C004051,1,At Risk
+C004052,0,High Value Engaged
+C004053,0,High Value Engaged
+C004054,1,At Risk
+C004055,0,High Value Engaged
+C004056,0,High Value Engaged
+C004057,0,High Value Engaged
+C004058,0,High Value Engaged
+C004059,2,Low Engagement
+C004060,0,High Value Engaged
+C004061,1,At Risk
+C004062,0,High Value Engaged
+C004063,0,High Value Engaged
+C004064,0,High Value Engaged
+C004065,0,High Value Engaged
+C004066,0,High Value Engaged
+C004067,1,At Risk
+C004068,0,High Value Engaged
+C004069,0,High Value Engaged
+C004070,0,High Value Engaged
+C004071,0,High Value Engaged
+C004072,0,High Value Engaged
+C004073,0,High Value Engaged
+C004074,0,High Value Engaged
+C004075,0,High Value Engaged
+C004076,0,High Value Engaged
+C004077,0,High Value Engaged
+C004078,0,High Value Engaged
+C004079,0,High Value Engaged
+C004080,0,High Value Engaged
+C004081,0,High Value Engaged
+C004082,0,High Value Engaged
+C004083,0,High Value Engaged
+C004084,0,High Value Engaged
+C004085,0,High Value Engaged
+C004086,0,High Value Engaged
+C004087,0,High Value Engaged
+C004088,2,Low Engagement
+C004089,0,High Value Engaged
+C004090,0,High Value Engaged
+C004091,0,High Value Engaged
+C004092,0,High Value Engaged
+C004093,0,High Value Engaged
+C004094,0,High Value Engaged
+C004095,3,Price Sensitive
+C004096,1,At Risk
+C004097,0,High Value Engaged
+C004098,1,At Risk
+C004099,0,High Value Engaged
+C004100,3,Price Sensitive
+C004101,0,High Value Engaged
+C004102,1,At Risk
+C004103,0,High Value Engaged
+C004104,0,High Value Engaged
+C004105,0,High Value Engaged
+C004106,2,Low Engagement
+C004107,1,At Risk
+C004108,2,Low Engagement
+C004109,1,At Risk
+C004110,0,High Value Engaged
+C004111,0,High Value Engaged
+C004112,0,High Value Engaged
+C004113,2,Low Engagement
+C004114,0,High Value Engaged
+C004115,0,High Value Engaged
+C004116,0,High Value Engaged
+C004117,0,High Value Engaged
+C004118,3,Price Sensitive
+C004119,0,High Value Engaged
+C004120,0,High Value Engaged
+C004121,0,High Value Engaged
+C004122,1,At Risk
+C004123,2,Low Engagement
+C004124,0,High Value Engaged
+C004125,2,Low Engagement
+C004126,2,Low Engagement
+C004127,0,High Value Engaged
+C004128,2,Low Engagement
+C004129,0,High Value Engaged
+C004130,2,Low Engagement
+C004131,0,High Value Engaged
+C004132,0,High Value Engaged
+C004133,2,Low Engagement
+C004134,1,At Risk
+C004135,0,High Value Engaged
+C004136,1,At Risk
+C004137,1,At Risk
+C004138,2,Low Engagement
+C004139,0,High Value Engaged
+C004140,2,Low Engagement
+C004141,0,High Value Engaged
+C004142,0,High Value Engaged
+C004143,0,High Value Engaged
+C004144,0,High Value Engaged
+C004145,0,High Value Engaged
+C004146,0,High Value Engaged
+C004147,0,High Value Engaged
+C004148,0,High Value Engaged
+C004149,2,Low Engagement
+C004150,0,High Value Engaged
+C004151,0,High Value Engaged
+C004152,1,At Risk
+C004153,0,High Value Engaged
+C004154,0,High Value Engaged
+C004155,0,High Value Engaged
+C004156,0,High Value Engaged
+C004157,1,At Risk
+C004158,0,High Value Engaged
+C004159,0,High Value Engaged
+C004160,2,Low Engagement
+C004161,0,High Value Engaged
+C004162,1,At Risk
+C004163,1,At Risk
+C004164,0,High Value Engaged
+C004165,0,High Value Engaged
+C004166,1,At Risk
+C004167,1,At Risk
+C004168,0,High Value Engaged
+C004169,0,High Value Engaged
+C004170,0,High Value Engaged
+C004171,1,At Risk
+C004172,2,Low Engagement
+C004173,3,Price Sensitive
+C004174,0,High Value Engaged
+C004175,3,Price Sensitive
+C004176,2,Low Engagement
+C004177,0,High Value Engaged
+C004178,0,High Value Engaged
+C004179,0,High Value Engaged
+C004180,0,High Value Engaged
+C004181,0,High Value Engaged
+C004182,0,High Value Engaged
+C004183,0,High Value Engaged
+C004184,1,At Risk
+C004185,1,At Risk
+C004186,0,High Value Engaged
+C004187,0,High Value Engaged
+C004188,0,High Value Engaged
+C004189,1,At Risk
+C004190,0,High Value Engaged
+C004191,1,At Risk
+C004192,2,Low Engagement
+C004193,0,High Value Engaged
+C004194,0,High Value Engaged
+C004195,0,High Value Engaged
+C004196,1,At Risk
+C004197,2,Low Engagement
+C004198,1,At Risk
+C004199,0,High Value Engaged
+C004200,0,High Value Engaged
+C004201,0,High Value Engaged
+C004202,1,At Risk
+C004203,0,High Value Engaged
+C004204,1,At Risk
+C004205,1,At Risk
+C004206,0,High Value Engaged
+C004207,1,At Risk
+C004208,0,High Value Engaged
+C004209,0,High Value Engaged
+C004210,1,At Risk
+C004211,0,High Value Engaged
+C004212,0,High Value Engaged
+C004213,1,At Risk
+C004214,0,High Value Engaged
+C004215,1,At Risk
+C004216,0,High Value Engaged
+C004217,0,High Value Engaged
+C004218,1,At Risk
+C004219,2,Low Engagement
+C004220,2,Low Engagement
+C004221,1,At Risk
+C004222,0,High Value Engaged
+C004223,2,Low Engagement
+C004224,0,High Value Engaged
+C004225,0,High Value Engaged
+C004226,0,High Value Engaged
+C004227,1,At Risk
+C004228,1,At Risk
+C004229,1,At Risk
+C004230,0,High Value Engaged
+C004231,0,High Value Engaged
+C004232,0,High Value Engaged
+C004233,1,At Risk
+C004234,1,At Risk
+C004235,2,Low Engagement
+C004236,1,At Risk
+C004237,0,High Value Engaged
+C004238,1,At Risk
+C004239,0,High Value Engaged
+C004240,0,High Value Engaged
+C004241,0,High Value Engaged
+C004242,1,At Risk
+C004243,0,High Value Engaged
+C004244,0,High Value Engaged
+C004245,0,High Value Engaged
+C004246,0,High Value Engaged
+C004247,3,Price Sensitive
+C004248,0,High Value Engaged
+C004249,0,High Value Engaged
+C004250,0,High Value Engaged
+C004251,0,High Value Engaged
+C004252,0,High Value Engaged
+C004253,0,High Value Engaged
+C004254,0,High Value Engaged
+C004255,0,High Value Engaged
+C004256,2,Low Engagement
+C004257,0,High Value Engaged
+C004258,1,At Risk
+C004259,0,High Value Engaged
+C004260,0,High Value Engaged
+C004261,0,High Value Engaged
+C004262,1,At Risk
+C004263,1,At Risk
+C004264,0,High Value Engaged
+C004265,2,Low Engagement
+C004266,2,Low Engagement
+C004267,1,At Risk
+C004268,0,High Value Engaged
+C004269,0,High Value Engaged
+C004270,0,High Value Engaged
+C004271,2,Low Engagement
+C004272,0,High Value Engaged
+C004273,2,Low Engagement
+C004274,0,High Value Engaged
+C004275,0,High Value Engaged
+C004276,1,At Risk
+C004277,0,High Value Engaged
+C004278,0,High Value Engaged
+C004279,0,High Value Engaged
+C004280,0,High Value Engaged
+C004281,0,High Value Engaged
+C004282,1,At Risk
+C004283,0,High Value Engaged
+C004284,0,High Value Engaged
+C004285,0,High Value Engaged
+C004286,0,High Value Engaged
+C004287,0,High Value Engaged
+C004288,0,High Value Engaged
+C004289,0,High Value Engaged
+C004290,2,Low Engagement
+C004291,0,High Value Engaged
+C004292,3,Price Sensitive
+C004293,0,High Value Engaged
+C004294,0,High Value Engaged
+C004295,0,High Value Engaged
+C004296,3,Price Sensitive
+C004297,1,At Risk
+C004298,1,At Risk
+C004299,0,High Value Engaged
+C004300,0,High Value Engaged
+C004301,0,High Value Engaged
+C004302,0,High Value Engaged
+C004303,0,High Value Engaged
+C004304,1,At Risk
+C004305,1,At Risk
+C004306,0,High Value Engaged
+C004307,1,At Risk
+C004308,1,At Risk
+C004309,0,High Value Engaged
+C004310,0,High Value Engaged
+C004311,2,Low Engagement
+C004312,2,Low Engagement
+C004313,1,At Risk
+C004314,0,High Value Engaged
+C004315,0,High Value Engaged
+C004316,0,High Value Engaged
+C004317,0,High Value Engaged
+C004318,1,At Risk
+C004319,0,High Value Engaged
+C004320,0,High Value Engaged
+C004321,1,At Risk
+C004322,3,Price Sensitive
+C004323,0,High Value Engaged
+C004324,1,At Risk
+C004325,2,Low Engagement
+C004326,0,High Value Engaged
+C004327,0,High Value Engaged
+C004328,0,High Value Engaged
+C004329,1,At Risk
+C004330,1,At Risk
+C004331,0,High Value Engaged
+C004332,0,High Value Engaged
+C004333,1,At Risk
+C004334,0,High Value Engaged
+C004335,0,High Value Engaged
+C004336,0,High Value Engaged
+C004337,0,High Value Engaged
+C004338,0,High Value Engaged
+C004339,2,Low Engagement
+C004340,2,Low Engagement
+C004341,1,At Risk
+C004342,1,At Risk
+C004343,0,High Value Engaged
+C004344,0,High Value Engaged
+C004345,0,High Value Engaged
+C004346,3,Price Sensitive
+C004347,0,High Value Engaged
+C004348,3,Price Sensitive
+C004349,2,Low Engagement
+C004350,0,High Value Engaged
+C004351,0,High Value Engaged
+C004352,0,High Value Engaged
+C004353,1,At Risk
+C004354,1,At Risk
+C004355,0,High Value Engaged
+C004356,2,Low Engagement
+C004357,1,At Risk
+C004358,0,High Value Engaged
+C004359,1,At Risk
+C004360,0,High Value Engaged
+C004361,2,Low Engagement
+C004362,0,High Value Engaged
+C004363,0,High Value Engaged
+C004364,2,Low Engagement
+C004365,1,At Risk
+C004366,2,Low Engagement
+C004367,2,Low Engagement
+C004368,0,High Value Engaged
+C004369,0,High Value Engaged
+C004370,1,At Risk
+C004371,1,At Risk
+C004372,1,At Risk
+C004373,3,Price Sensitive
+C004374,0,High Value Engaged
+C004375,0,High Value Engaged
+C004376,0,High Value Engaged
+C004377,0,High Value Engaged
+C004378,0,High Value Engaged
+C004379,3,Price Sensitive
+C004380,2,Low Engagement
+C004381,0,High Value Engaged
+C004382,0,High Value Engaged
+C004383,1,At Risk
+C004384,0,High Value Engaged
+C004385,0,High Value Engaged
+C004386,1,At Risk
+C004387,0,High Value Engaged
+C004388,0,High Value Engaged
+C004389,0,High Value Engaged
+C004390,0,High Value Engaged
+C004391,0,High Value Engaged
+C004392,2,Low Engagement
+C004393,2,Low Engagement
+C004394,1,At Risk
+C004395,0,High Value Engaged
+C004396,0,High Value Engaged
+C004397,0,High Value Engaged
+C004398,1,At Risk
+C004399,2,Low Engagement
+C004400,1,At Risk
+C004401,1,At Risk
+C004402,0,High Value Engaged
+C004403,0,High Value Engaged
+C004404,0,High Value Engaged
+C004405,3,Price Sensitive
+C004406,0,High Value Engaged
+C004407,0,High Value Engaged
+C004408,2,Low Engagement
+C004409,3,Price Sensitive
+C004410,2,Low Engagement
+C004411,0,High Value Engaged
+C004412,0,High Value Engaged
+C004413,1,At Risk
+C004414,0,High Value Engaged
+C004415,2,Low Engagement
+C004416,0,High Value Engaged
+C004417,0,High Value Engaged
+C004418,1,At Risk
+C004419,0,High Value Engaged
+C004420,0,High Value Engaged
+C004421,0,High Value Engaged
+C004422,1,At Risk
+C004423,0,High Value Engaged
+C004424,0,High Value Engaged
+C004425,0,High Value Engaged
+C004426,0,High Value Engaged
+C004427,0,High Value Engaged
+C004428,0,High Value Engaged
+C004429,1,At Risk
+C004430,1,At Risk
+C004431,0,High Value Engaged
+C004432,0,High Value Engaged
+C004433,0,High Value Engaged
+C004434,0,High Value Engaged
+C004435,1,At Risk
+C004436,0,High Value Engaged
+C004437,0,High Value Engaged
+C004438,0,High Value Engaged
+C004439,1,At Risk
+C004440,0,High Value Engaged
+C004441,0,High Value Engaged
+C004442,0,High Value Engaged
+C004443,3,Price Sensitive
+C004444,0,High Value Engaged
+C004445,0,High Value Engaged
+C004446,0,High Value Engaged
+C004447,0,High Value Engaged
+C004448,0,High Value Engaged
+C004449,0,High Value Engaged
+C004450,1,At Risk
+C004451,0,High Value Engaged
+C004452,1,At Risk
+C004453,0,High Value Engaged
+C004454,1,At Risk
+C004455,1,At Risk
+C004456,2,Low Engagement
+C004457,0,High Value Engaged
+C004458,1,At Risk
+C004459,0,High Value Engaged
+C004460,3,Price Sensitive
+C004461,1,At Risk
+C004462,0,High Value Engaged
+C004463,0,High Value Engaged
+C004464,1,At Risk
+C004465,1,At Risk
+C004466,0,High Value Engaged
+C004467,0,High Value Engaged
+C004468,0,High Value Engaged
+C004469,0,High Value Engaged
+C004470,0,High Value Engaged
+C004471,0,High Value Engaged
+C004472,0,High Value Engaged
+C004473,0,High Value Engaged
+C004474,1,At Risk
+C004475,0,High Value Engaged
+C004476,0,High Value Engaged
+C004477,1,At Risk
+C004478,0,High Value Engaged
+C004479,0,High Value Engaged
+C004480,2,Low Engagement
+C004481,0,High Value Engaged
+C004482,1,At Risk
+C004483,0,High Value Engaged
+C004484,0,High Value Engaged
+C004485,1,At Risk
+C004486,1,At Risk
+C004487,1,At Risk
+C004488,0,High Value Engaged
+C004489,0,High Value Engaged
+C004490,2,Low Engagement
+C004491,2,Low Engagement
+C004492,0,High Value Engaged
+C004493,0,High Value Engaged
+C004494,2,Low Engagement
+C004495,0,High Value Engaged
+C004496,1,At Risk
+C004497,0,High Value Engaged
+C004498,0,High Value Engaged
+C004499,3,Price Sensitive
+C004500,0,High Value Engaged
+C004501,0,High Value Engaged
+C004502,0,High Value Engaged
+C004503,0,High Value Engaged
+C004504,0,High Value Engaged
+C004505,0,High Value Engaged
+C004506,1,At Risk
+C004507,0,High Value Engaged
+C004508,0,High Value Engaged
+C004509,0,High Value Engaged
+C004510,0,High Value Engaged
+C004511,0,High Value Engaged
+C004512,0,High Value Engaged
+C004513,1,At Risk
+C004514,0,High Value Engaged
+C004515,1,At Risk
+C004516,0,High Value Engaged
+C004517,1,At Risk
+C004518,1,At Risk
+C004519,0,High Value Engaged
+C004520,0,High Value Engaged
+C004521,0,High Value Engaged
+C004522,0,High Value Engaged
+C004523,0,High Value Engaged
+C004524,0,High Value Engaged
+C004525,1,At Risk
+C004526,0,High Value Engaged
+C004527,0,High Value Engaged
+C004528,0,High Value Engaged
+C004529,0,High Value Engaged
+C004530,0,High Value Engaged
+C004531,0,High Value Engaged
+C004532,0,High Value Engaged
+C004533,0,High Value Engaged
+C004534,0,High Value Engaged
+C004535,0,High Value Engaged
+C004536,0,High Value Engaged
+C004537,0,High Value Engaged
+C004538,0,High Value Engaged
+C004539,1,At Risk
+C004540,0,High Value Engaged
+C004541,0,High Value Engaged
+C004542,0,High Value Engaged
+C004543,1,At Risk
+C004544,0,High Value Engaged
+C004545,0,High Value Engaged
+C004546,3,Price Sensitive
+C004547,0,High Value Engaged
+C004548,1,At Risk
+C004549,0,High Value Engaged
+C004550,0,High Value Engaged
+C004551,0,High Value Engaged
+C004552,1,At Risk
+C004553,0,High Value Engaged
+C004554,1,At Risk
+C004555,0,High Value Engaged
+C004556,0,High Value Engaged
+C004557,0,High Value Engaged
+C004558,2,Low Engagement
+C004559,0,High Value Engaged
+C004560,3,Price Sensitive
+C004561,0,High Value Engaged
+C004562,1,At Risk
+C004563,0,High Value Engaged
+C004564,0,High Value Engaged
+C004565,0,High Value Engaged
+C004566,0,High Value Engaged
+C004567,0,High Value Engaged
+C004568,0,High Value Engaged
+C004569,0,High Value Engaged
+C004570,0,High Value Engaged
+C004571,1,At Risk
+C004572,0,High Value Engaged
+C004573,0,High Value Engaged
+C004574,1,At Risk
+C004575,0,High Value Engaged
+C004576,0,High Value Engaged
+C004577,0,High Value Engaged
+C004578,0,High Value Engaged
+C004579,0,High Value Engaged
+C004580,2,Low Engagement
+C004581,2,Low Engagement
+C004582,0,High Value Engaged
+C004583,0,High Value Engaged
+C004584,0,High Value Engaged
+C004585,0,High Value Engaged
+C004586,0,High Value Engaged
+C004587,0,High Value Engaged
+C004588,0,High Value Engaged
+C004589,0,High Value Engaged
+C004590,1,At Risk
+C004591,3,Price Sensitive
+C004592,1,At Risk
+C004593,0,High Value Engaged
+C004594,0,High Value Engaged
+C004595,0,High Value Engaged
+C004596,0,High Value Engaged
+C004597,1,At Risk
+C004598,0,High Value Engaged
+C004599,0,High Value Engaged
+C004600,1,At Risk
+C004601,0,High Value Engaged
+C004602,2,Low Engagement
+C004603,2,Low Engagement
+C004604,0,High Value Engaged
+C004605,0,High Value Engaged
+C004606,0,High Value Engaged
+C004607,1,At Risk
+C004608,1,At Risk
+C004609,2,Low Engagement
+C004610,0,High Value Engaged
+C004611,0,High Value Engaged
+C004612,3,Price Sensitive
+C004613,0,High Value Engaged
+C004614,0,High Value Engaged
+C004615,2,Low Engagement
+C004616,0,High Value Engaged
+C004617,1,At Risk
+C004618,0,High Value Engaged
+C004619,1,At Risk
+C004620,0,High Value Engaged
+C004621,0,High Value Engaged
+C004622,0,High Value Engaged
+C004623,0,High Value Engaged
+C004624,2,Low Engagement
+C004625,2,Low Engagement
+C004626,0,High Value Engaged
+C004627,0,High Value Engaged
+C004628,0,High Value Engaged
+C004629,0,High Value Engaged
+C004630,0,High Value Engaged
+C004631,0,High Value Engaged
+C004632,0,High Value Engaged
+C004633,0,High Value Engaged
+C004634,1,At Risk
+C004635,1,At Risk
+C004636,0,High Value Engaged
+C004637,1,At Risk
+C004638,1,At Risk
+C004639,0,High Value Engaged
+C004640,0,High Value Engaged
+C004641,1,At Risk
+C004642,0,High Value Engaged
+C004643,0,High Value Engaged
+C004644,2,Low Engagement
+C004645,0,High Value Engaged
+C004646,0,High Value Engaged
+C004647,0,High Value Engaged
+C004648,0,High Value Engaged
+C004649,0,High Value Engaged
+C004650,0,High Value Engaged
+C004651,0,High Value Engaged
+C004652,0,High Value Engaged
+C004653,0,High Value Engaged
+C004654,0,High Value Engaged
+C004655,1,At Risk
+C004656,0,High Value Engaged
+C004657,2,Low Engagement
+C004658,2,Low Engagement
+C004659,0,High Value Engaged
+C004660,1,At Risk
+C004661,0,High Value Engaged
+C004662,0,High Value Engaged
+C004663,0,High Value Engaged
+C004664,0,High Value Engaged
+C004665,0,High Value Engaged
+C004666,0,High Value Engaged
+C004667,0,High Value Engaged
+C004668,0,High Value Engaged
+C004669,0,High Value Engaged
+C004670,2,Low Engagement
+C004671,2,Low Engagement
+C004672,0,High Value Engaged
+C004673,0,High Value Engaged
+C004674,1,At Risk
+C004675,0,High Value Engaged
+C004676,0,High Value Engaged
+C004677,0,High Value Engaged
+C004678,0,High Value Engaged
+C004679,0,High Value Engaged
+C004680,3,Price Sensitive
+C004681,0,High Value Engaged
+C004682,1,At Risk
+C004683,0,High Value Engaged
+C004684,0,High Value Engaged
+C004685,2,Low Engagement
+C004686,0,High Value Engaged
+C004687,0,High Value Engaged
+C004688,0,High Value Engaged
+C004689,0,High Value Engaged
+C004690,0,High Value Engaged
+C004691,1,At Risk
+C004692,0,High Value Engaged
+C004693,0,High Value Engaged
+C004694,0,High Value Engaged
+C004695,0,High Value Engaged
+C004696,0,High Value Engaged
+C004697,1,At Risk
+C004698,0,High Value Engaged
+C004699,1,At Risk
+C004700,0,High Value Engaged
+C004701,1,At Risk
+C004702,2,Low Engagement
+C004703,0,High Value Engaged
+C004704,0,High Value Engaged
+C004705,1,At Risk
+C004706,0,High Value Engaged
+C004707,0,High Value Engaged
+C004708,1,At Risk
+C004709,0,High Value Engaged
+C004710,0,High Value Engaged
+C004711,2,Low Engagement
+C004712,0,High Value Engaged
+C004713,0,High Value Engaged
+C004714,0,High Value Engaged
+C004715,0,High Value Engaged
+C004716,0,High Value Engaged
+C004717,0,High Value Engaged
+C004718,0,High Value Engaged
+C004719,1,At Risk
+C004720,0,High Value Engaged
+C004721,1,At Risk
+C004722,0,High Value Engaged
+C004723,1,At Risk
+C004724,0,High Value Engaged
+C004725,0,High Value Engaged
+C004726,3,Price Sensitive
+C004727,0,High Value Engaged
+C004728,0,High Value Engaged
+C004729,1,At Risk
+C004730,0,High Value Engaged
+C004731,0,High Value Engaged
+C004732,0,High Value Engaged
+C004733,0,High Value Engaged
+C004734,1,At Risk
+C004735,0,High Value Engaged
+C004736,2,Low Engagement
+C004737,2,Low Engagement
+C004738,1,At Risk
+C004739,0,High Value Engaged
+C004740,1,At Risk
+C004741,2,Low Engagement
+C004742,0,High Value Engaged
+C004743,0,High Value Engaged
+C004744,0,High Value Engaged
+C004745,0,High Value Engaged
+C004746,0,High Value Engaged
+C004747,0,High Value Engaged
+C004748,1,At Risk
+C004749,0,High Value Engaged
+C004750,0,High Value Engaged
+C004751,0,High Value Engaged
+C004752,0,High Value Engaged
+C004753,2,Low Engagement
+C004754,1,At Risk
+C004755,0,High Value Engaged
+C004756,0,High Value Engaged
+C004757,2,Low Engagement
+C004758,0,High Value Engaged
+C004759,0,High Value Engaged
+C004760,1,At Risk
+C004761,1,At Risk
+C004762,1,At Risk
+C004763,0,High Value Engaged
+C004764,0,High Value Engaged
+C004765,0,High Value Engaged
+C004766,1,At Risk
+C004767,1,At Risk
+C004768,0,High Value Engaged
+C004769,0,High Value Engaged
+C004770,0,High Value Engaged
+C004771,0,High Value Engaged
+C004772,1,At Risk
+C004773,0,High Value Engaged
+C004774,1,At Risk
+C004775,1,At Risk
+C004776,1,At Risk
+C004777,2,Low Engagement
+C004778,0,High Value Engaged
+C004779,1,At Risk
+C004780,1,At Risk
+C004781,0,High Value Engaged
+C004782,1,At Risk
+C004783,0,High Value Engaged
+C004784,3,Price Sensitive
+C004785,2,Low Engagement
+C004786,2,Low Engagement
+C004787,0,High Value Engaged
+C004788,0,High Value Engaged
+C004789,0,High Value Engaged
+C004790,0,High Value Engaged
+C004791,0,High Value Engaged
+C004792,0,High Value Engaged
+C004793,0,High Value Engaged
+C004794,0,High Value Engaged
+C004795,0,High Value Engaged
+C004796,0,High Value Engaged
+C004797,0,High Value Engaged
+C004798,0,High Value Engaged
+C004799,0,High Value Engaged
+C004800,0,High Value Engaged
+C004801,0,High Value Engaged
+C004802,0,High Value Engaged
+C004803,2,Low Engagement
+C004804,1,At Risk
+C004805,0,High Value Engaged
+C004806,0,High Value Engaged
+C004807,0,High Value Engaged
+C004808,0,High Value Engaged
+C004809,2,Low Engagement
+C004810,0,High Value Engaged
+C004811,0,High Value Engaged
+C004812,3,Price Sensitive
+C004813,0,High Value Engaged
+C004814,0,High Value Engaged
+C004815,0,High Value Engaged
+C004816,0,High Value Engaged
+C004817,2,Low Engagement
+C004818,0,High Value Engaged
+C004819,2,Low Engagement
+C004820,0,High Value Engaged
+C004821,0,High Value Engaged
+C004822,2,Low Engagement
+C004823,2,Low Engagement
+C004824,0,High Value Engaged
+C004825,0,High Value Engaged
+C004826,0,High Value Engaged
+C004827,0,High Value Engaged
+C004828,1,At Risk
+C004829,0,High Value Engaged
+C004830,0,High Value Engaged
+C004831,0,High Value Engaged
+C004832,1,At Risk
+C004833,0,High Value Engaged
+C004834,0,High Value Engaged
+C004835,0,High Value Engaged
+C004836,1,At Risk
+C004837,0,High Value Engaged
+C004838,1,At Risk
+C004839,2,Low Engagement
+C004840,0,High Value Engaged
+C004841,0,High Value Engaged
+C004842,0,High Value Engaged
+C004843,2,Low Engagement
+C004844,1,At Risk
+C004845,0,High Value Engaged
+C004846,0,High Value Engaged
+C004847,0,High Value Engaged
+C004848,0,High Value Engaged
+C004849,0,High Value Engaged
+C004850,0,High Value Engaged
+C004851,2,Low Engagement
+C004852,0,High Value Engaged
+C004853,0,High Value Engaged
+C004854,0,High Value Engaged
+C004855,0,High Value Engaged
+C004856,0,High Value Engaged
+C004857,2,Low Engagement
+C004858,0,High Value Engaged
+C004859,0,High Value Engaged
+C004860,0,High Value Engaged
+C004861,1,At Risk
+C004862,1,At Risk
+C004863,0,High Value Engaged
+C004864,2,Low Engagement
+C004865,0,High Value Engaged
+C004866,0,High Value Engaged
+C004867,0,High Value Engaged
+C004868,0,High Value Engaged
+C004869,1,At Risk
+C004870,0,High Value Engaged
+C004871,1,At Risk
+C004872,2,Low Engagement
+C004873,2,Low Engagement
+C004874,2,Low Engagement
+C004875,0,High Value Engaged
+C004876,0,High Value Engaged
+C004877,0,High Value Engaged
+C004878,2,Low Engagement
+C004879,2,Low Engagement
+C004880,0,High Value Engaged
+C004881,1,At Risk
+C004882,0,High Value Engaged
+C004883,0,High Value Engaged
+C004884,0,High Value Engaged
+C004885,0,High Value Engaged
+C004886,2,Low Engagement
+C004887,0,High Value Engaged
+C004888,0,High Value Engaged
+C004889,0,High Value Engaged
+C004890,1,At Risk
+C004891,1,At Risk
+C004892,0,High Value Engaged
+C004893,0,High Value Engaged
+C004894,2,Low Engagement
+C004895,0,High Value Engaged
+C004896,0,High Value Engaged
+C004897,0,High Value Engaged
+C004898,3,Price Sensitive
+C004899,1,At Risk
+C004900,0,High Value Engaged
+C004901,0,High Value Engaged
+C004902,0,High Value Engaged
+C004903,0,High Value Engaged
+C004904,0,High Value Engaged
+C004905,0,High Value Engaged
+C004906,0,High Value Engaged
+C004907,0,High Value Engaged
+C004908,0,High Value Engaged
+C004909,1,At Risk
+C004910,0,High Value Engaged
+C004911,0,High Value Engaged
+C004912,2,Low Engagement
+C004913,2,Low Engagement
+C004914,1,At Risk
+C004915,0,High Value Engaged
+C004916,0,High Value Engaged
+C004917,1,At Risk
+C004918,0,High Value Engaged
+C004919,0,High Value Engaged
+C004920,0,High Value Engaged
+C004921,0,High Value Engaged
+C004922,1,At Risk
+C004923,2,Low Engagement
+C004924,0,High Value Engaged
+C004925,2,Low Engagement
+C004926,1,At Risk
+C004927,3,Price Sensitive
+C004928,2,Low Engagement
+C004929,0,High Value Engaged
+C004930,1,At Risk
+C004931,2,Low Engagement
+C004932,0,High Value Engaged
+C004933,0,High Value Engaged
+C004934,0,High Value Engaged
+C004935,2,Low Engagement
+C004936,0,High Value Engaged
+C004937,0,High Value Engaged
+C004938,1,At Risk
+C004939,0,High Value Engaged
+C004940,0,High Value Engaged
+C004941,2,Low Engagement
+C004942,0,High Value Engaged
+C004943,0,High Value Engaged
+C004944,0,High Value Engaged
+C004945,0,High Value Engaged
+C004946,0,High Value Engaged
+C004947,2,Low Engagement
+C004948,0,High Value Engaged
+C004949,0,High Value Engaged
+C004950,0,High Value Engaged
+C004951,0,High Value Engaged
+C004952,0,High Value Engaged
+C004953,2,Low Engagement
+C004954,0,High Value Engaged
+C004955,2,Low Engagement
+C004956,0,High Value Engaged
+C004957,0,High Value Engaged
+C004958,0,High Value Engaged
+C004959,0,High Value Engaged
+C004960,0,High Value Engaged
+C004961,0,High Value Engaged
+C004962,0,High Value Engaged
+C004963,0,High Value Engaged
+C004964,1,At Risk
+C004965,0,High Value Engaged
+C004966,1,At Risk
+C004967,2,Low Engagement
+C004968,0,High Value Engaged
+C004969,0,High Value Engaged
+C004970,0,High Value Engaged
+C004971,0,High Value Engaged
+C004972,2,Low Engagement
+C004973,0,High Value Engaged
+C004974,0,High Value Engaged
+C004975,1,At Risk
+C004976,0,High Value Engaged
+C004977,0,High Value Engaged
+C004978,0,High Value Engaged
+C004979,1,At Risk
+C004980,2,Low Engagement
+C004981,1,At Risk
+C004982,1,At Risk
+C004983,0,High Value Engaged
+C004984,1,At Risk
+C004985,0,High Value Engaged
+C004986,0,High Value Engaged
+C004987,1,At Risk
+C004988,0,High Value Engaged
+C004989,0,High Value Engaged
+C004990,0,High Value Engaged
+C004991,0,High Value Engaged
+C004992,0,High Value Engaged
+C004993,1,At Risk
+C004994,0,High Value Engaged
+C004995,1,At Risk
+C004996,0,High Value Engaged
+C004997,0,High Value Engaged
+C004998,2,Low Engagement
+C004999,0,High Value Engaged
+C005000,0,High Value Engaged

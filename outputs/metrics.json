@@ -1,0 +1,35 @@
+{
+  "LogisticRegression": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "threshold": 0.5,
+    "best_threshold": 0.1,
+    "best_f1": 1.0
+  },
+  "RandomForest": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "threshold": 0.5,
+    "best_threshold": 0.25000000000000006,
+    "best_f1": 1.0
+  },
+  "GradientBoosting": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "threshold": 0.5,
+    "best_threshold": 0.1,
+    "best_f1": 1.0
+  }
+}
