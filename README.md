@@ -10,7 +10,7 @@
 
 Production-ready **Customer Churn Prediction & Retention Analytics** system for B2C SaaS/OTT/Telecom businesses. This end-to-end ML project demonstrates industry-standard practices from data generation to deployment, monitoring, and testing.
 
-**Key Achievement**: 81% accuracy with 0.86 ROC-AUC, protecting **₹1.82M annual revenue** through targeted retention.
+
 
 ---
 
@@ -458,7 +458,7 @@ This project is created for educational and portfolio purposes.
 ## 👤 Author
 
 **Data Scientist + ML Engineer**  
-Project: Customer Churn & Retention Analytics (Telecom/OTT/SaaS Style)
+Project: Customer Churn & Retention Analytics 
 
 ---
 
