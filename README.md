@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-Production-ready **Customer Churn Prediction & Retention Analytics** system for B2C SaaS/OTT/Telecom businesses. This end-to-end ML project demonstrates industry-standard practices from data generation to deployment, monitoring, and testing.
+ **Customer Churn Prediction & Retention Analytics** system for Telecom businesses. This end-to-end ML project demonstrates industry-standard practices from data generation to deployment, monitoring, and testing.
 
 
 
